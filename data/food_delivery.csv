@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Restaurant,Category,Item,Quantity,Price,Total_Amount,Payment_Mode,Delivery_Time_Min,Order_Status,Rating
+FD10001,2026-01-17,C1008,Rahul,Mumbai,Tasty Treats,Desserts,Gulab Jamun,1,219,219,Card,,Cancelled,
+FD10002,2026-05-23,C1040,Neha,Nashik,Spice Villa,Chinese,Veg Noodles,2,290,580,UPI,64.0,Delivered,3.8
+FD10003,2026-02-10,C1142,Amit,Thane,Cafe Delight,South Indian,Masala Dosa,3,91,273,Card,,Cancelled,
+FD10004,2026-11-22,C1214,Vikas,Mumbai,Cafe Delight,Burger,Veg Burger,1,194,194,Cash,,Cancelled,
+FD10005,2026-05-19,C1237,Riya,Mumbai,Cafe Delight,Burger,Cheese Burger,1,282,282,UPI,,Cancelled,
+FD10006,2026-07-22,C1227,Nisha,Mumbai,The Food Corner,Burger,Veg Burger,3,188,564,UPI,,Cancelled,
+FD10007,2026-03-20,C1161,Rohan,Nagpur,Spice Villa,Burger,Cheese Burger,4,222,888,Cash,23.0,Delivered,4.7
+FD10008,2026-03-22,C1117,Aarav,Nashik,Urban Bites,South Indian,Uttapam,3,109,327,Card,27.0,Delivered,3.6
+FD10009,2026-07-05,C1225,Amit,Mumbai,Food Hub,Pizza,Paneer Pizza,2,298,596,UPI,51.0,Delivered,3.0
+FD10010,2026-10-09,C1043,Pooja,Thane,Royal Kitchen,Chinese,Veg Noodles,1,172,172,UPI,,Cancelled,
+FD10011,2026-06-23,C1006,Manish,Thane,Tasty Treats,Chinese,Manchurian,3,252,756,Card,35.0,Delivered,3.4
+FD10012,2026-04-20,C1139,Priya,Thane,Quick Eats,Burger,Veg Burger,1,135,135,UPI,37.0,Delivered,4.3
+FD10013,2026-01-28,C1173,Sneha,Pune,Royal Kitchen,Thali,Punjabi Thali,4,285,1140,Card,,Cancelled,
+FD10014,2026-02-08,C1114,Riya,Pune,Food Hub,Biryani,Veg Biryani,2,317,634,Card,49.0,Delivered,3.5
+FD10015,2026-07-19,C1068,Nisha,Nashik,Royal Kitchen,Chinese,Veg Noodles,1,263,263,Card,30.0,Delivered,3.8
+FD10016,2026-09-02,C1129,Meera,Mumbai,Food Hub,Desserts,Rasmalai,2,218,436,Card,23.0,Delivered,3.1
+FD10017,2026-11-14,C1021,Akash,Thane,Cafe Delight,Pizza,Farmhouse Pizza,1,524,524,Cash,57.0,Delivered,4.2
+FD10018,2026-10-16,C1026,Rahul,Thane,Tasty Treats,Burger,Cheese Burger,2,221,442,Card,49.0,Delivered,4.2
+FD10019,2026-12-01,C1136,Aarav,Thane,The Food Corner,Biryani,Veg Biryani,3,274,822,Card,59.0,Delivered,5.0
+FD10020,2026-12-18,C1163,Pooja,Thane,Quick Eats,Pizza,Farmhouse Pizza,3,279,837,Cash,65.0,Delivered,3.7
+FD10021,2026-03-24,C1190,Nisha,Thane,Royal Kitchen,Thali,Veg Thali,1,265,265,Card,60.0,Delivered,5.0
+FD10022,2026-01-21,C1231,Vikas,Mumbai,Tasty Treats,Pizza,Margherita Pizza,1,296,296,Card,22.0,Delivered,3.6
+FD10023,2026-07-30,C1206,Karan,Nashik,Urban Bites,Pizza,Paneer Pizza,4,537,2148,Card,41.0,Delivered,4.6
+FD10024,2026-07-24,C1085,Pooja,Pune,The Food Corner,Pizza,Veggie Pizza,1,460,460,Cash,21.0,Delivered,4.3
+FD10025,2026-06-10,C1112,Isha,Thane,Spice Villa,Desserts,Rasmalai,3,147,441,Cash,58.0,Delivered,3.9
+FD10026,2026-02-05,C1243,Anjali,Thane,Cafe Delight,Chinese,Manchurian,3,277,831,Card,,Cancelled,
+FD10027,2026-07-14,C1174,Rohan,Thane,The Food Corner,Thali,Veg Thali,3,255,765,Cash,32.0,Delivered,3.8
+FD10028,2026-03-28,C1169,Rahul,Nashik,Cafe Delight,Chinese,Veg Noodles,3,259,777,UPI,52.0,Delivered,3.9
+FD10029,2026-11-19,C1148,Neha,Nagpur,Quick Eats,Thali,Veg Thali,3,301,903,Cash,49.0,Delivered,3.8
+FD10030,2026-03-04,C1117,Priya,Nagpur,Cafe Delight,Burger,Paneer Burger,1,228,228,Cash,55.0,Delivered,3.5
+FD10031,2026-11-17,C1062,Pooja,Nagpur,Spice Villa,Chinese,Paneer Chilli,4,203,812,Card,,Cancelled,
+FD10032,2026-12-22,C1040,Neha,Pune,Royal Kitchen,Biryani,Veg Biryani,3,318,954,Cash,,Cancelled,
+FD10033,2026-09-02,C1002,Vikas,Nashik,Royal Kitchen,Biryani,Mushroom Biryani,4,232,928,Cash,,Cancelled,
+FD10034,2026-03-26,C1216,Nisha,Mumbai,Food Hub,Chinese,Manchurian,4,147,588,Cash,,Cancelled,
+FD10035,2026-06-17,C1055,Nisha,Nashik,Cafe Delight,Chinese,Veg Noodles,1,186,186,Cash,,Cancelled,
+FD10036,2026-01-16,C1244,Karan,Mumbai,Food Hub,Biryani,Paneer Biryani,3,184,552,Card,61.0,Delivered,3.1
+FD10037,2026-02-28,C1200,Rohan,Nashik,Spice Villa,Burger,Paneer Burger,2,291,582,Card,58.0,Delivered,4.2
+FD10038,2026-06-27,C1137,Akash,Nashik,Spice Villa,Pizza,Paneer Pizza,4,423,1692,Card,56.0,Delivered,4.6
+FD10039,2026-04-01,C1188,Meera,Nashik,Quick Eats,Desserts,Ice Cream,1,197,197,Cash,,Cancelled,
+FD10040,2026-06-22,C1008,Sahil,Nashik,Urban Bites,South Indian,Vada Sambar,3,195,585,Cash,,Cancelled,
+FD10041,2026-07-28,C1126,Riya,Mumbai,Quick Eats,Burger,Cheese Burger,3,191,573,Card,25.0,Delivered,3.5
+FD10042,2026-06-26,C1109,Riya,Nashik,Cafe Delight,Desserts,Rasmalai,4,142,568,Card,50.0,Delivered,4.1
+FD10043,2026-09-05,C1071,Manish,Thane,The Food Corner,South Indian,Vada Sambar,3,129,387,UPI,32.0,Delivered,3.4
+FD10044,2026-10-11,C1075,Priya,Nagpur,Spice Villa,Thali,Veg Thali,3,212,636,UPI,22.0,Delivered,4.9
+FD10045,2026-02-07,C1148,Aditi,Mumbai,Urban Bites,Chinese,Fried Rice,4,153,612,Card,24.0,Delivered,3.8
+FD10046,2026-08-19,C1233,Nisha,Nashik,Royal Kitchen,Biryani,Veg Biryani,2,375,750,Cash,,Cancelled,
+FD10047,2026-03-22,C1001,Akash,Nagpur,Quick Eats,Chinese,Veg Noodles,1,309,309,Cash,31.0,Delivered,4.1
+FD10048,2026-04-26,C1166,Priya,Nashik,Urban Bites,Pizza,Farmhouse Pizza,3,364,1092,UPI,47.0,Delivered,3.2
+FD10049,2026-05-20,C1129,Riya,Nagpur,Quick Eats,Pizza,Farmhouse Pizza,3,524,1572,UPI,,Cancelled,
+FD10050,2026-10-23,C1011,Rohan,Nagpur,Quick Eats,Chinese,Veg Noodles,4,163,652,Cash,63.0,Delivered,4.6
+FD10051,2026-09-11,C1074,Sakshi,Thane,Food Hub,Burger,Aloo Tikki Burger,4,240,960,Cash,41.0,Delivered,3.8
+FD10052,2026-07-31,C1014,Neha,Thane,Cafe Delight,Pizza,Paneer Pizza,3,385,1155,Card,,Cancelled,
+FD10053,2026-03-04,C1008,Isha,Mumbai,Urban Bites,Thali,Punjabi Thali,4,292,1168,Cash,,Cancelled,
+FD10054,2026-05-30,C1131,Pooja,Nagpur,Quick Eats,Chinese,Veg Noodles,4,258,1032,Cash,51.0,Delivered,4.9
+FD10055,2026-06-24,C1240,Meera,Nashik,Food Hub,Burger,Aloo Tikki Burger,2,168,336,Cash,,Cancelled,
+FD10056,2026-08-22,C1239,Anjali,Mumbai,Tasty Treats,Desserts,Ice Cream,4,165,660,Card,,Cancelled,
+FD10057,2026-03-06,C1129,Manish,Nashik,Spice Villa,South Indian,Idli Sambar,4,201,804,Cash,51.0,Delivered,4.9
+FD10058,2026-11-29,C1021,Anjali,Thane,Royal Kitchen,Pizza,Veggie Pizza,1,293,293,Cash,59.0,Delivered,4.4
+FD10059,2026-02-21,C1114,Rohan,Nashik,Food Hub,Desserts,Rasmalai,1,103,103,UPI,60.0,Delivered,4.4
+FD10060,2026-11-09,C1223,Sakshi,Thane,Tasty Treats,Biryani,Veg Biryani,3,290,870,Cash,30.0,Delivered,3.4
+FD10061,2026-02-07,C1114,Vikas,Thane,The Food Corner,Chinese,Manchurian,2,205,410,Card,63.0,Delivered,4.1
+FD10062,2026-12-25,C1076,Aarav,Nagpur,The Food Corner,South Indian,Vada Sambar,4,203,812,UPI,56.0,Delivered,3.6
+FD10063,2026-12-04,C1175,Priya,Pune,Food Hub,Chinese,Veg Noodles,4,196,784,Cash,63.0,Delivered,4.5
+FD10064,2026-03-31,C1052,Priya,Thane,Cafe Delight,Thali,Punjabi Thali,1,263,263,Card,,Cancelled,
+FD10065,2026-04-26,C1221,Sakshi,Thane,Cafe Delight,Chinese,Fried Rice,2,226,452,UPI,29.0,Delivered,4.5
+FD10066,2026-11-23,C1241,Vikas,Pune,Tasty Treats,Thali,Punjabi Thali,1,329,329,Cash,,Cancelled,
+FD10067,2026-03-01,C1036,Aditi,Pune,The Food Corner,Pizza,Paneer Pizza,2,252,504,Cash,,Cancelled,
+FD10068,2026-09-08,C1158,Akash,Nashik,Food Hub,Pizza,Margherita Pizza,2,495,990,Card,46.0,Delivered,4.3
+FD10069,2026-04-08,C1248,Sneha,Nagpur,Spice Villa,Biryani,Veg Biryani,4,398,1592,Card,23.0,Delivered,3.8
+FD10070,2026-03-17,C1202,Isha,Pune,The Food Corner,Burger,Veg Burger,1,182,182,UPI,34.0,Delivered,3.7
+FD10071,2026-01-27,C1033,Akash,Thane,Spice Villa,Burger,Cheese Burger,2,289,578,Card,21.0,Delivered,3.3
+FD10072,2026-08-23,C1165,Aarav,Pune,Quick Eats,Pizza,Veggie Pizza,4,405,1620,Cash,62.0,Delivered,4.0
+FD10073,2026-10-27,C1141,Anjali,Nagpur,The Food Corner,South Indian,Masala Dosa,4,162,648,Cash,37.0,Delivered,4.2
+FD10074,2026-06-23,C1212,Nisha,Nagpur,Royal Kitchen,Chinese,Paneer Chilli,1,250,250,Card,,Cancelled,
+FD10075,2026-02-19,C1191,Vikas,Mumbai,Food Hub,Pizza,Paneer Pizza,4,380,1520,Card,25.0,Delivered,3.2
+FD10076,2026-09-17,C1055,Priya,Nagpur,Tasty Treats,Chinese,Fried Rice,1,153,153,UPI,42.0,Delivered,3.2
+FD10077,2026-12-26,C1196,Amit,Nashik,Cafe Delight,Biryani,Mushroom Biryani,3,326,978,UPI,21.0,Delivered,3.4
+FD10078,2026-08-03,C1117,Anjali,Mumbai,Cafe Delight,Burger,Paneer Burger,4,156,624,Cash,,Cancelled,
+FD10079,2026-12-05,C1109,Sahil,Thane,Quick Eats,Desserts,Ice Cream,1,100,100,Cash,,Cancelled,
+FD10080,2026-11-03,C1015,Aarav,Mumbai,The Food Corner,Biryani,Veg Biryani,1,208,208,UPI,22.0,Delivered,3.4
+FD10081,2026-04-28,C1129,Riya,Nashik,Spice Villa,Thali,Veg Thali,3,224,672,Cash,44.0,Delivered,4.1
+FD10082,2026-12-30,C1164,Akash,Nashik,Spice Villa,Thali,Maharashtrian Thali,1,326,326,Cash,,Cancelled,
+FD10083,2026-09-26,C1021,Sakshi,Nashik,Cafe Delight,Pizza,Paneer Pizza,2,536,1072,UPI,47.0,Delivered,4.2
+FD10084,2026-05-01,C1027,Priya,Nashik,Tasty Treats,Biryani,Veg Biryani,1,209,209,UPI,61.0,Delivered,4.6
+FD10085,2026-08-14,C1018,Sahil,Nagpur,The Food Corner,Chinese,Manchurian,1,284,284,Cash,60.0,Delivered,3.6
+FD10086,2026-02-16,C1158,Isha,Thane,Royal Kitchen,Chinese,Veg Noodles,3,255,765,Cash,38.0,Delivered,3.2
+FD10087,2026-06-25,C1183,Rahul,Thane,Urban Bites,Chinese,Veg Noodles,4,294,1176,UPI,23.0,Delivered,3.9
+FD10088,2026-07-29,C1199,Anjali,Thane,Food Hub,Burger,Aloo Tikki Burger,4,253,1012,Card,,Cancelled,
+FD10089,2026-12-06,C1037,Vikas,Nashik,Royal Kitchen,Desserts,Ice Cream,1,144,144,UPI,41.0,Delivered,3.2
+FD10090,2026-09-18,C1093,Aarav,Nashik,The Food Corner,Chinese,Veg Noodles,3,172,516,UPI,,Cancelled,
+FD10091,2026-11-13,C1034,Isha,Nagpur,Urban Bites,Burger,Cheese Burger,4,177,708,UPI,62.0,Delivered,3.7
+FD10092,2026-08-29,C1232,Neha,Nashik,Quick Eats,Burger,Paneer Burger,4,225,900,Cash,54.0,Delivered,3.5
+FD10093,2026-07-10,C1142,Sneha,Thane,Spice Villa,Thali,Punjabi Thali,4,244,976,Cash,61.0,Delivered,4.0
+FD10094,2026-07-22,C1129,Vikas,Mumbai,Royal Kitchen,Pizza,Farmhouse Pizza,3,450,1350,UPI,21.0,Delivered,3.8
+FD10095,2026-03-13,C1195,Sahil,Nagpur,Food Hub,Biryani,Veg Biryani,1,394,394,UPI,50.0,Delivered,4.4
+FD10096,2026-05-03,C1108,Isha,Nagpur,Spice Villa,Pizza,Paneer Pizza,2,296,592,UPI,39.0,Delivered,3.2
+FD10097,2026-10-20,C1107,Rohan,Pune,Cafe Delight,Thali,Punjabi Thali,1,289,289,UPI,59.0,Delivered,3.7
+FD10098,2026-12-03,C1161,Sneha,Thane,Cafe Delight,Chinese,Veg Noodles,4,235,940,UPI,24.0,Delivered,3.7
+FD10099,2026-08-23,C1010,Amit,Mumbai,Food Hub,Pizza,Paneer Pizza,3,549,1647,UPI,28.0,Delivered,3.1
+FD10100,2026-01-25,C1222,Anjali,Nashik,Spice Villa,Pizza,Paneer Pizza,3,483,1449,Cash,38.0,Delivered,3.7
+FD10101,2026-02-10,C1111,Isha,Mumbai,The Food Corner,South Indian,Uttapam,4,207,828,Cash,25.0,Delivered,4.5
+FD10102,2026-01-22,C1187,Vikas,Thane,Royal Kitchen,Pizza,Margherita Pizza,3,371,1113,Cash,,Cancelled,
+FD10103,2026-08-13,C1009,Priya,Pune,Tasty Treats,Desserts,Gulab Jamun,1,120,120,Card,58.0,Delivered,4.4
+FD10104,2026-10-21,C1036,Meera,Nashik,Royal Kitchen,Biryani,Paneer Biryani,4,334,1336,Cash,48.0,Delivered,4.5
+FD10105,2026-12-27,C1115,Neha,Thane,The Food Corner,Desserts,Ice Cream,2,212,424,Card,36.0,Delivered,4.5
+FD10106,2026-10-05,C1075,Amit,Mumbai,Urban Bites,South Indian,Idli Sambar,1,124,124,Cash,65.0,Delivered,3.1
+FD10107,2026-10-10,C1034,Isha,Pune,Spice Villa,Chinese,Manchurian,1,146,146,Cash,49.0,Delivered,4.6
+FD10108,2026-12-15,C1133,Vikas,Mumbai,Urban Bites,South Indian,Uttapam,4,112,448,UPI,,Cancelled,
+FD10109,2026-02-10,C1065,Neha,Thane,The Food Corner,South Indian,Masala Dosa,1,122,122,UPI,53.0,Delivered,4.8
+FD10110,2026-11-25,C1198,Manish,Nashik,Tasty Treats,Desserts,Ice Cream,1,166,166,Card,21.0,Delivered,3.2
+FD10111,2026-01-31,C1041,Nisha,Nagpur,Quick Eats,South Indian,Masala Dosa,4,157,628,Cash,49.0,Delivered,3.1
+FD10112,2026-03-04,C1069,Nisha,Mumbai,Urban Bites,Burger,Cheese Burger,2,201,402,UPI,40.0,Delivered,3.5
+FD10113,2026-08-28,C1128,Amit,Nagpur,Food Hub,Pizza,Paneer Pizza,4,535,2140,UPI,51.0,Delivered,5.0
+FD10114,2026-05-27,C1138,Aarav,Pune,Royal Kitchen,South Indian,Uttapam,2,92,184,UPI,,Cancelled,
+FD10115,2026-08-19,C1196,Riya,Nashik,Spice Villa,Biryani,Mushroom Biryani,3,191,573,UPI,24.0,Delivered,3.8
+FD10116,2026-06-20,C1206,Sahil,Thane,Quick Eats,Pizza,Veggie Pizza,3,393,1179,UPI,22.0,Delivered,3.1
+FD10117,2026-09-30,C1126,Manish,Nashik,Quick Eats,Chinese,Manchurian,3,297,891,UPI,52.0,Delivered,4.7
+FD10118,2026-03-29,C1135,Isha,Nagpur,Urban Bites,Biryani,Paneer Biryani,1,258,258,Card,23.0,Delivered,4.2
+FD10119,2026-11-10,C1236,Sahil,Pune,Urban Bites,Burger,Veg Burger,1,124,124,Card,46.0,Delivered,4.0
+FD10120,2026-12-15,C1165,Pooja,Thane,Quick Eats,Burger,Cheese Burger,4,216,864,UPI,63.0,Delivered,4.5
+FD10121,2026-05-21,C1074,Sneha,Thane,Royal Kitchen,Burger,Cheese Burger,3,196,588,Cash,50.0,Delivered,3.7
+FD10122,2026-10-03,C1070,Riya,Nashik,Urban Bites,Thali,Punjabi Thali,2,347,694,UPI,50.0,Delivered,3.4
+FD10123,2026-08-30,C1026,Priya,Pune,Urban Bites,Chinese,Manchurian,2,303,606,Cash,46.0,Delivered,3.7
+FD10124,2026-01-20,C1234,Rohan,Nagpur,Urban Bites,Desserts,Rasmalai,4,95,380,UPI,54.0,Delivered,4.5
+FD10125,2026-10-06,C1135,Sahil,Mumbai,Quick Eats,Thali,Punjabi Thali,4,265,1060,Cash,49.0,Delivered,5.0
+FD10126,2026-04-09,C1045,Isha,Nagpur,Royal Kitchen,Burger,Veg Burger,3,237,711,Card,56.0,Delivered,4.3
+FD10127,2026-05-17,C1245,Anjali,Nashik,Food Hub,Biryani,Veg Biryani,4,215,860,Cash,44.0,Delivered,3.5
+FD10128,2026-06-01,C1095,Isha,Mumbai,Tasty Treats,Desserts,Ice Cream,2,120,240,UPI,64.0,Delivered,3.2
+FD10129,2026-11-02,C1224,Rahul,Thane,Quick Eats,South Indian,Idli Sambar,4,220,880,Card,35.0,Delivered,4.4
+FD10130,2026-09-24,C1114,Sneha,Mumbai,Quick Eats,Desserts,Ice Cream,1,131,131,UPI,30.0,Delivered,3.7
+FD10131,2026-12-11,C1207,Amit,Pune,Royal Kitchen,Chinese,Paneer Chilli,1,256,256,Cash,,Cancelled,
+FD10132,2026-08-30,C1009,Amit,Nagpur,Urban Bites,Thali,Veg Thali,2,318,636,UPI,24.0,Delivered,5.0
+FD10133,2026-03-02,C1046,Riya,Nagpur,Urban Bites,Thali,Maharashtrian Thali,4,349,1396,Card,61.0,Delivered,4.7
+FD10134,2026-03-21,C1071,Neha,Pune,Food Hub,Burger,Veg Burger,1,238,238,Card,35.0,Delivered,3.9
+FD10135,2026-10-04,C1056,Aditi,Mumbai,The Food Corner,South Indian,Masala Dosa,2,88,176,UPI,45.0,Delivered,3.9
+FD10136,2026-02-01,C1143,Manish,Mumbai,Royal Kitchen,Thali,Maharashtrian Thali,3,216,648,Card,46.0,Delivered,3.6
+FD10137,2026-10-03,C1122,Karan,Mumbai,The Food Corner,South Indian,Masala Dosa,3,214,642,Card,39.0,Delivered,3.8
+FD10138,2026-02-10,C1237,Nisha,Nashik,Spice Villa,Burger,Aloo Tikki Burger,1,225,225,Card,33.0,Delivered,3.7
+FD10139,2026-06-20,C1078,Aarav,Mumbai,Tasty Treats,Desserts,Brownie,1,128,128,Card,50.0,Delivered,3.4
+FD10140,2026-08-27,C1137,Vikas,Nashik,The Food Corner,Pizza,Veggie Pizza,2,529,1058,Cash,,Cancelled,
+FD10141,2026-01-24,C1145,Karan,Mumbai,Food Hub,Chinese,Paneer Chilli,4,192,768,Cash,,Cancelled,
+FD10142,2026-09-08,C1248,Sahil,Nagpur,Urban Bites,Chinese,Paneer Chilli,3,237,711,Card,36.0,Delivered,4.5
+FD10143,2026-12-09,C1013,Aarav,Nagpur,Urban Bites,Thali,Punjabi Thali,2,314,628,Card,24.0,Delivered,4.9
+FD10144,2026-12-04,C1125,Aarav,Pune,Royal Kitchen,Burger,Veg Burger,2,175,350,UPI,,Cancelled,
+FD10145,2026-09-27,C1065,Vikas,Nashik,Royal Kitchen,Pizza,Paneer Pizza,3,228,684,UPI,35.0,Delivered,3.4
+FD10146,2026-07-13,C1142,Sahil,Pune,Food Hub,Biryani,Paneer Biryani,4,358,1432,Card,25.0,Delivered,3.8
+FD10147,2026-12-21,C1228,Manish,Nagpur,The Food Corner,Burger,Veg Burger,4,285,1140,UPI,34.0,Delivered,3.4
+FD10148,2026-05-04,C1146,Sakshi,Thane,Cafe Delight,Pizza,Paneer Pizza,1,311,311,Cash,39.0,Delivered,3.3
+FD10149,2026-11-11,C1245,Isha,Nagpur,Cafe Delight,Thali,Maharashtrian Thali,2,291,582,UPI,24.0,Delivered,3.7
+FD10150,2026-02-13,C1198,Isha,Nashik,Tasty Treats,Desserts,Ice Cream,4,127,508,Card,,Cancelled,
+FD10151,2026-06-07,C1114,Vikas,Nashik,Spice Villa,Pizza,Margherita Pizza,3,298,894,UPI,25.0,Delivered,3.0
+FD10152,2026-11-02,C1154,Anjali,Nagpur,Food Hub,Pizza,Farmhouse Pizza,4,449,1796,Cash,42.0,Delivered,4.1
+FD10153,2026-09-10,C1038,Rahul,Mumbai,Royal Kitchen,South Indian,Uttapam,1,213,213,Cash,37.0,Delivered,3.6
+FD10154,2026-06-05,C1002,Sakshi,Nashik,Royal Kitchen,South Indian,Vada Sambar,4,143,572,Cash,49.0,Delivered,3.2
+FD10155,2026-06-13,C1075,Sahil,Thane,Tasty Treats,South Indian,Vada Sambar,4,162,648,Cash,31.0,Delivered,4.9
+FD10156,2026-04-18,C1113,Amit,Pune,Royal Kitchen,South Indian,Vada Sambar,4,131,524,Card,49.0,Delivered,4.9
+FD10157,2026-11-03,C1123,Manish,Nagpur,Royal Kitchen,South Indian,Idli Sambar,3,119,357,Card,,Cancelled,
+FD10158,2026-06-19,C1248,Akash,Pune,Food Hub,Pizza,Paneer Pizza,1,275,275,UPI,,Cancelled,
+FD10159,2026-06-01,C1107,Rahul,Pune,Urban Bites,Biryani,Veg Biryani,2,280,560,Cash,21.0,Delivered,4.0
+FD10160,2026-06-13,C1018,Amit,Pune,Spice Villa,Biryani,Paneer Biryani,4,303,1212,UPI,,Cancelled,
+FD10161,2026-08-25,C1060,Sakshi,Mumbai,Urban Bites,Thali,Punjabi Thali,1,264,264,Card,,Cancelled,
+FD10162,2026-05-23,C1193,Rahul,Thane,Spice Villa,Desserts,Rasmalai,4,189,756,Card,65.0,Delivered,3.4
+FD10163,2026-07-20,C1151,Sneha,Nashik,Cafe Delight,Burger,Cheese Burger,3,237,711,Cash,58.0,Delivered,3.8
+FD10164,2026-12-22,C1037,Meera,Nagpur,Royal Kitchen,Chinese,Manchurian,3,220,660,Card,27.0,Delivered,3.4
+FD10165,2026-04-06,C1081,Nisha,Thane,Food Hub,Burger,Aloo Tikki Burger,4,244,976,Cash,51.0,Delivered,3.6
+FD10166,2026-08-01,C1182,Nisha,Nagpur,Urban Bites,Pizza,Veggie Pizza,2,319,638,UPI,,Cancelled,
+FD10167,2026-10-17,C1191,Sahil,Thane,Spice Villa,Chinese,Veg Noodles,2,277,554,Card,,Cancelled,
+FD10168,2026-06-02,C1224,Aditi,Nagpur,The Food Corner,Pizza,Paneer Pizza,3,497,1491,Cash,61.0,Delivered,4.5
+FD10169,2026-01-31,C1146,Vikas,Thane,The Food Corner,Thali,Veg Thali,4,222,888,Card,33.0,Delivered,4.6
+FD10170,2026-01-31,C1071,Priya,Mumbai,Tasty Treats,Chinese,Manchurian,3,271,813,UPI,,Cancelled,
+FD10171,2026-02-08,C1163,Rahul,Nagpur,The Food Corner,Desserts,Ice Cream,2,186,372,Card,,Cancelled,
+FD10172,2026-04-22,C1248,Akash,Mumbai,Quick Eats,Biryani,Paneer Biryani,4,180,720,Cash,,Cancelled,
+FD10173,2026-08-24,C1005,Sneha,Mumbai,Quick Eats,Biryani,Paneer Biryani,3,213,639,Cash,60.0,Delivered,4.6
+FD10174,2026-12-07,C1232,Rohan,Pune,Royal Kitchen,Pizza,Veggie Pizza,2,287,574,Card,36.0,Delivered,3.2
+FD10175,2026-09-23,C1175,Nisha,Pune,Food Hub,Biryani,Mushroom Biryani,2,203,406,Card,28.0,Delivered,4.2
+FD10176,2026-06-03,C1036,Sakshi,Mumbai,Urban Bites,Biryani,Veg Biryani,4,198,792,UPI,40.0,Delivered,3.7
+FD10177,2026-04-22,C1023,Sneha,Mumbai,Spice Villa,Chinese,Veg Noodles,2,300,600,Card,,Cancelled,
+FD10178,2026-11-04,C1185,Isha,Nashik,Food Hub,Desserts,Rasmalai,3,150,450,Card,35.0,Delivered,4.1
+FD10179,2026-11-01,C1019,Meera,Pune,Cafe Delight,Biryani,Veg Biryani,2,345,690,Cash,35.0,Delivered,4.0
+FD10180,2026-01-21,C1237,Aditi,Nagpur,The Food Corner,Burger,Aloo Tikki Burger,4,259,1036,Card,20.0,Delivered,3.5
+FD10181,2026-04-15,C1250,Priya,Thane,Cafe Delight,Desserts,Rasmalai,4,119,476,Cash,39.0,Delivered,3.2
+FD10182,2026-11-10,C1156,Aditi,Nashik,Urban Bites,Chinese,Veg Noodles,3,162,486,UPI,,Cancelled,
+FD10183,2026-05-18,C1188,Sneha,Pune,Cafe Delight,Pizza,Farmhouse Pizza,1,303,303,Cash,28.0,Delivered,4.5
+FD10184,2026-10-18,C1043,Vikas,Mumbai,The Food Corner,Biryani,Mushroom Biryani,1,340,340,UPI,23.0,Delivered,4.0
+FD10185,2026-04-02,C1239,Aditi,Thane,Royal Kitchen,Chinese,Veg Noodles,2,202,404,UPI,44.0,Delivered,4.8
+FD10186,2026-09-22,C1012,Sakshi,Pune,Quick Eats,Biryani,Veg Biryani,4,391,1564,Cash,31.0,Delivered,3.4
+FD10187,2026-07-08,C1152,Sahil,Mumbai,Tasty Treats,Thali,Punjabi Thali,3,254,762,UPI,59.0,Delivered,3.5
+FD10188,2026-06-07,C1027,Neha,Thane,Tasty Treats,Pizza,Veggie Pizza,1,339,339,Cash,,Cancelled,
+FD10189,2026-02-13,C1149,Sneha,Thane,Urban Bites,South Indian,Masala Dosa,2,139,278,Card,,Cancelled,
+FD10190,2026-07-21,C1180,Anjali,Nashik,Quick Eats,Thali,Punjabi Thali,1,240,240,Cash,36.0,Delivered,4.7
+FD10191,2026-06-10,C1105,Sneha,Thane,Cafe Delight,Burger,Veg Burger,2,269,538,UPI,,Cancelled,
+FD10192,2026-06-17,C1038,Rahul,Mumbai,Cafe Delight,South Indian,Vada Sambar,4,120,480,Cash,33.0,Delivered,4.7
+FD10193,2026-03-13,C1032,Aarav,Pune,Tasty Treats,Chinese,Veg Noodles,3,255,765,UPI,49.0,Delivered,3.2
+FD10194,2026-03-07,C1024,Anjali,Pune,Food Hub,Burger,Aloo Tikki Burger,3,285,855,Cash,61.0,Delivered,3.9
+FD10195,2026-05-21,C1072,Nisha,Mumbai,Food Hub,Pizza,Farmhouse Pizza,4,422,1688,Card,33.0,Delivered,4.8
+FD10196,2026-03-12,C1108,Neha,Thane,Tasty Treats,Chinese,Manchurian,3,155,465,Card,,Cancelled,
+FD10197,2026-01-14,C1082,Isha,Mumbai,Food Hub,Thali,Maharashtrian Thali,1,324,324,Cash,44.0,Delivered,3.5
+FD10198,2026-07-18,C1091,Rohan,Mumbai,Tasty Treats,Pizza,Veggie Pizza,3,519,1557,Card,34.0,Delivered,4.2
+FD10199,2026-03-31,C1126,Aditi,Pune,Food Hub,Biryani,Mushroom Biryani,3,360,1080,UPI,51.0,Delivered,4.1
+FD10200,2026-06-15,C1016,Aarav,Mumbai,Urban Bites,Chinese,Manchurian,1,297,297,UPI,65.0,Delivered,3.4
+FD10201,2026-03-22,C1188,Akash,Nagpur,Cafe Delight,Thali,Maharashtrian Thali,3,266,798,UPI,40.0,Delivered,3.3
+FD10202,2026-10-21,C1101,Manish,Pune,Urban Bites,Desserts,Ice Cream,2,155,310,Card,20.0,Delivered,4.9
+FD10203,2026-03-27,C1163,Rahul,Nashik,Quick Eats,Biryani,Mushroom Biryani,2,206,412,UPI,42.0,Delivered,5.0
+FD10204,2026-08-03,C1249,Rohan,Nagpur,Quick Eats,Biryani,Veg Biryani,2,245,490,Cash,,Cancelled,
+FD10205,2026-05-14,C1244,Sneha,Pune,Cafe Delight,Biryani,Mushroom Biryani,4,381,1524,UPI,38.0,Delivered,3.0
+FD10206,2026-03-22,C1014,Sneha,Nashik,Tasty Treats,South Indian,Idli Sambar,1,203,203,UPI,58.0,Delivered,4.8
+FD10207,2026-08-07,C1023,Amit,Thane,Quick Eats,South Indian,Vada Sambar,3,92,276,UPI,23.0,Delivered,3.7
+FD10208,2026-08-30,C1126,Pooja,Pune,Royal Kitchen,Pizza,Margherita Pizza,2,307,614,UPI,,Cancelled,
+FD10209,2026-03-19,C1193,Sneha,Pune,Cafe Delight,Biryani,Paneer Biryani,3,191,573,Card,37.0,Delivered,4.1
+FD10210,2026-07-22,C1232,Aditi,Thane,Urban Bites,South Indian,Idli Sambar,1,217,217,UPI,50.0,Delivered,3.6
+FD10211,2026-11-18,C1038,Isha,Nashik,Cafe Delight,Thali,Punjabi Thali,2,288,576,Card,63.0,Delivered,3.9
+FD10212,2026-09-25,C1201,Akash,Pune,Royal Kitchen,Thali,Veg Thali,1,297,297,UPI,64.0,Delivered,4.2
+FD10213,2026-10-20,C1156,Sahil,Pune,Urban Bites,Burger,Veg Burger,1,145,145,Cash,44.0,Delivered,4.3
+FD10214,2026-06-05,C1080,Pooja,Nagpur,Spice Villa,South Indian,Idli Sambar,4,140,560,UPI,21.0,Delivered,3.7
+FD10215,2026-04-19,C1234,Akash,Nagpur,Cafe Delight,Burger,Cheese Burger,4,188,752,UPI,,Cancelled,
+FD10216,2026-05-08,C1009,Nisha,Pune,Cafe Delight,Chinese,Manchurian,1,274,274,Card,32.0,Delivered,4.7
+FD10217,2026-04-01,C1246,Sahil,Thane,Cafe Delight,Burger,Cheese Burger,3,249,747,Cash,51.0,Delivered,4.2
+FD10218,2026-11-30,C1105,Meera,Pune,Food Hub,Burger,Cheese Burger,1,127,127,Cash,63.0,Delivered,3.4
+FD10219,2026-06-28,C1118,Pooja,Mumbai,Quick Eats,Burger,Paneer Burger,1,184,184,Cash,,Cancelled,
+FD10220,2026-05-22,C1164,Anjali,Nashik,The Food Corner,Desserts,Rasmalai,1,152,152,Card,50.0,Delivered,3.1
+FD10221,2026-01-14,C1168,Sahil,Nashik,The Food Corner,Desserts,Ice Cream,2,183,366,Cash,63.0,Delivered,3.3
+FD10222,2026-12-10,C1092,Meera,Nashik,Urban Bites,South Indian,Uttapam,1,128,128,Card,,Cancelled,
+FD10223,2026-06-07,C1108,Anjali,Nashik,The Food Corner,Chinese,Manchurian,3,283,849,Card,34.0,Delivered,3.7
+FD10224,2026-06-02,C1106,Aditi,Mumbai,Urban Bites,Biryani,Paneer Biryani,1,342,342,UPI,63.0,Delivered,3.8
+FD10225,2026-01-03,C1116,Pooja,Mumbai,Urban Bites,Biryani,Paneer Biryani,4,400,1600,Card,40.0,Delivered,4.3
+FD10226,2026-09-02,C1099,Aarav,Pune,Tasty Treats,Thali,Veg Thali,4,283,1132,Card,,Cancelled,
+FD10227,2026-07-16,C1129,Manish,Nashik,Urban Bites,Biryani,Veg Biryani,3,184,552,UPI,39.0,Delivered,3.3
+FD10228,2026-12-18,C1035,Anjali,Nagpur,Cafe Delight,Thali,Veg Thali,3,266,798,UPI,,Cancelled,
+FD10229,2026-11-30,C1203,Aditi,Nagpur,The Food Corner,Burger,Aloo Tikki Burger,1,177,177,Card,27.0,Delivered,3.7
+FD10230,2026-07-14,C1032,Riya,Nashik,Quick Eats,Chinese,Veg Noodles,1,152,152,Card,,Cancelled,
+FD10231,2026-02-23,C1131,Isha,Pune,The Food Corner,Burger,Paneer Burger,1,227,227,UPI,46.0,Delivered,4.7
+FD10232,2026-06-01,C1042,Aditi,Thane,Quick Eats,Thali,Veg Thali,4,271,1084,UPI,,Cancelled,
+FD10233,2026-02-21,C1232,Pooja,Mumbai,Quick Eats,Desserts,Rasmalai,3,206,618,Cash,52.0,Delivered,3.2
+FD10234,2026-01-24,C1003,Priya,Mumbai,Cafe Delight,Biryani,Paneer Biryani,1,190,190,Cash,26.0,Delivered,4.7
+FD10235,2026-09-02,C1205,Akash,Mumbai,Spice Villa,South Indian,Vada Sambar,1,109,109,UPI,44.0,Delivered,4.4
+FD10236,2026-07-03,C1157,Aarav,Mumbai,Quick Eats,Desserts,Gulab Jamun,2,192,384,Cash,,Cancelled,
+FD10237,2026-09-23,C1134,Isha,Pune,Royal Kitchen,Pizza,Veggie Pizza,4,243,972,Card,62.0,Delivered,4.7
+FD10238,2026-09-11,C1223,Rohan,Pune,Quick Eats,Desserts,Brownie,4,93,372,Cash,52.0,Delivered,4.7
+FD10239,2026-10-21,C1115,Rahul,Nagpur,Quick Eats,Burger,Cheese Burger,3,249,747,Cash,25.0,Delivered,3.9
+FD10240,2026-11-23,C1078,Meera,Thane,Tasty Treats,Pizza,Veggie Pizza,1,272,272,Card,58.0,Delivered,4.9
+FD10241,2026-12-03,C1094,Nisha,Pune,Spice Villa,Desserts,Rasmalai,3,164,492,Card,,Cancelled,
+FD10242,2026-09-10,C1036,Akash,Pune,The Food Corner,Burger,Veg Burger,3,282,846,Card,22.0,Delivered,4.8
+FD10243,2026-10-29,C1032,Nisha,Nagpur,Urban Bites,Burger,Paneer Burger,1,175,175,Cash,60.0,Delivered,4.7
+FD10244,2026-11-07,C1226,Anjali,Thane,Royal Kitchen,Pizza,Margherita Pizza,4,519,2076,Cash,44.0,Delivered,4.3
+FD10245,2026-06-10,C1183,Riya,Mumbai,Tasty Treats,Chinese,Manchurian,3,174,522,UPI,64.0,Delivered,4.1
+FD10246,2026-10-20,C1242,Akash,Thane,The Food Corner,Chinese,Fried Rice,3,278,834,Cash,55.0,Delivered,4.0
+FD10247,2026-12-16,C1065,Priya,Pune,The Food Corner,Thali,Veg Thali,1,231,231,UPI,30.0,Delivered,5.0
+FD10248,2026-07-15,C1100,Akash,Nashik,Food Hub,Thali,Maharashtrian Thali,1,240,240,UPI,64.0,Delivered,4.3
+FD10249,2026-04-01,C1175,Rahul,Mumbai,Urban Bites,Desserts,Ice Cream,2,174,348,Card,32.0,Delivered,3.6
+FD10250,2026-12-30,C1240,Priya,Pune,Urban Bites,Chinese,Veg Noodles,4,173,692,Cash,20.0,Delivered,3.7
+FD10251,2026-09-16,C1041,Akash,Thane,Royal Kitchen,Chinese,Veg Noodles,3,158,474,UPI,31.0,Delivered,4.0
+FD10252,2026-08-17,C1062,Isha,Thane,Tasty Treats,Biryani,Veg Biryani,2,272,544,UPI,27.0,Delivered,4.3
+FD10253,2026-08-17,C1125,Aditi,Nashik,Tasty Treats,Desserts,Ice Cream,4,86,344,Cash,52.0,Delivered,4.6
+FD10254,2026-02-23,C1053,Riya,Nagpur,Spice Villa,Chinese,Veg Noodles,1,300,300,Card,63.0,Delivered,3.8
+FD10255,2026-04-27,C1234,Pooja,Nagpur,Royal Kitchen,Desserts,Brownie,1,93,93,Cash,55.0,Delivered,3.1
+FD10256,2026-02-07,C1092,Meera,Pune,The Food Corner,Desserts,Rasmalai,4,81,324,Card,57.0,Delivered,3.1
+FD10257,2026-07-20,C1204,Riya,Nashik,Urban Bites,Biryani,Mushroom Biryani,1,277,277,Cash,54.0,Delivered,3.4
+FD10258,2026-10-03,C1141,Rahul,Nashik,Tasty Treats,Desserts,Ice Cream,1,81,81,Card,,Cancelled,
+FD10259,2026-04-10,C1030,Rohan,Thane,Food Hub,Desserts,Ice Cream,2,121,242,Card,59.0,Delivered,4.7
+FD10260,2026-05-01,C1026,Amit,Thane,Spice Villa,South Indian,Masala Dosa,3,130,390,UPI,28.0,Delivered,4.3
+FD10261,2026-03-28,C1002,Anjali,Mumbai,Tasty Treats,Biryani,Paneer Biryani,4,348,1392,Card,40.0,Delivered,4.9
+FD10262,2026-02-25,C1045,Isha,Pune,The Food Corner,Desserts,Rasmalai,3,198,594,UPI,39.0,Delivered,4.0
+FD10263,2026-10-30,C1055,Aditi,Thane,The Food Corner,Chinese,Manchurian,3,144,432,Card,57.0,Delivered,4.2
+FD10264,2026-01-06,C1170,Karan,Thane,Urban Bites,Chinese,Paneer Chilli,2,174,348,Card,45.0,Delivered,3.7
+FD10265,2026-05-16,C1095,Karan,Pune,Tasty Treats,Burger,Aloo Tikki Burger,2,264,528,Card,51.0,Delivered,3.5
+FD10266,2026-10-19,C1045,Sakshi,Nagpur,Cafe Delight,Thali,Punjabi Thali,4,206,824,Card,36.0,Delivered,4.2
+FD10267,2026-11-06,C1002,Meera,Mumbai,Quick Eats,Desserts,Gulab Jamun,3,168,504,UPI,,Cancelled,
+FD10268,2026-02-28,C1124,Sahil,Nagpur,Tasty Treats,Burger,Veg Burger,3,158,474,Card,46.0,Delivered,4.6
+FD10269,2026-04-03,C1133,Sakshi,Thane,Food Hub,Burger,Aloo Tikki Burger,1,131,131,Card,23.0,Delivered,3.3
+FD10270,2026-11-04,C1037,Manish,Mumbai,The Food Corner,Desserts,Ice Cream,1,123,123,UPI,,Cancelled,
+FD10271,2026-09-16,C1176,Akash,Mumbai,Spice Villa,Desserts,Ice Cream,4,178,712,UPI,21.0,Delivered,3.4
+FD10272,2026-09-25,C1108,Vikas,Pune,Royal Kitchen,South Indian,Masala Dosa,1,113,113,UPI,,Cancelled,
+FD10273,2026-04-30,C1233,Rahul,Nashik,Royal Kitchen,Thali,Punjabi Thali,4,245,980,Cash,,Cancelled,
+FD10274,2026-07-29,C1093,Sneha,Mumbai,Royal Kitchen,Burger,Veg Burger,1,253,253,Card,64.0,Delivered,4.6
+FD10275,2026-10-13,C1124,Rohan,Nashik,Quick Eats,Chinese,Fried Rice,3,296,888,Cash,46.0,Delivered,4.1
+FD10276,2026-06-23,C1206,Riya,Thane,Food Hub,Biryani,Mushroom Biryani,3,398,1194,UPI,33.0,Delivered,4.0
+FD10277,2026-01-20,C1186,Sakshi,Nagpur,The Food Corner,South Indian,Masala Dosa,1,191,191,Card,43.0,Delivered,3.2
+FD10278,2026-09-19,C1133,Karan,Thane,Urban Bites,Chinese,Veg Noodles,2,191,382,Card,22.0,Delivered,4.6
+FD10279,2026-10-28,C1052,Meera,Pune,Spice Villa,Pizza,Paneer Pizza,2,220,440,UPI,,Cancelled,
+FD10280,2026-09-17,C1028,Riya,Pune,The Food Corner,Chinese,Fried Rice,3,256,768,Cash,36.0,Delivered,3.4
+FD10281,2026-10-28,C1221,Aarav,Nagpur,Spice Villa,Pizza,Paneer Pizza,3,446,1338,Cash,,Cancelled,
+FD10282,2026-07-24,C1173,Anjali,Pune,Urban Bites,Pizza,Veggie Pizza,2,337,674,Cash,35.0,Delivered,3.6
+FD10283,2026-04-14,C1214,Karan,Thane,Cafe Delight,Biryani,Paneer Biryani,2,226,452,UPI,36.0,Delivered,3.4
+FD10284,2026-06-11,C1127,Manish,Nashik,Quick Eats,Thali,Veg Thali,1,318,318,UPI,50.0,Delivered,3.7
+FD10285,2026-10-04,C1009,Meera,Nashik,Royal Kitchen,Thali,Maharashtrian Thali,3,288,864,Card,,Cancelled,
+FD10286,2026-06-16,C1093,Isha,Nashik,Urban Bites,Thali,Veg Thali,4,183,732,Card,44.0,Delivered,4.2
+FD10287,2026-07-10,C1094,Sakshi,Nashik,Quick Eats,Biryani,Veg Biryani,3,267,801,UPI,46.0,Delivered,4.4
+FD10288,2026-03-18,C1122,Aarav,Mumbai,Royal Kitchen,Chinese,Manchurian,2,282,564,Cash,29.0,Delivered,4.6
+FD10289,2026-09-01,C1215,Sneha,Nagpur,Cafe Delight,Burger,Cheese Burger,4,184,736,Cash,33.0,Delivered,4.6
+FD10290,2026-12-11,C1131,Sahil,Nagpur,Spice Villa,Biryani,Paneer Biryani,3,285,855,Cash,38.0,Delivered,3.7
+FD10291,2026-06-10,C1082,Amit,Nashik,Royal Kitchen,Chinese,Fried Rice,4,247,988,Cash,30.0,Delivered,3.7
+FD10292,2026-04-18,C1043,Sakshi,Pune,Spice Villa,South Indian,Vada Sambar,4,85,340,UPI,64.0,Delivered,4.5
+FD10293,2026-07-19,C1080,Karan,Mumbai,The Food Corner,South Indian,Masala Dosa,1,101,101,Cash,25.0,Delivered,4.3
+FD10294,2026-08-28,C1250,Riya,Nashik,Quick Eats,Desserts,Brownie,2,171,342,UPI,,Cancelled,
+FD10295,2026-02-15,C1114,Amit,Nashik,Royal Kitchen,Desserts,Brownie,4,216,864,Cash,50.0,Delivered,4.1
+FD10296,2026-09-02,C1077,Aarav,Nagpur,The Food Corner,Burger,Cheese Burger,1,253,253,Card,64.0,Delivered,4.8
+FD10297,2026-07-13,C1057,Pooja,Pune,Royal Kitchen,Burger,Veg Burger,3,225,675,Card,,Cancelled,
+FD10298,2026-11-13,C1116,Pooja,Thane,Quick Eats,Burger,Cheese Burger,3,188,564,UPI,27.0,Delivered,4.3
+FD10299,2026-01-05,C1060,Rahul,Mumbai,Food Hub,Biryani,Veg Biryani,2,185,370,Cash,65.0,Delivered,3.9
+FD10300,2026-07-20,C1019,Riya,Nagpur,Urban Bites,Burger,Cheese Burger,4,247,988,UPI,29.0,Delivered,3.1
+FD10301,2026-02-18,C1134,Neha,Nagpur,Royal Kitchen,Thali,Punjabi Thali,4,243,972,Card,32.0,Delivered,3.9
+FD10302,2026-11-23,C1077,Neha,Nashik,Food Hub,Biryani,Paneer Biryani,2,370,740,Card,,Cancelled,
+FD10303,2026-01-05,C1249,Aditi,Thane,Quick Eats,Burger,Veg Burger,2,231,462,Card,45.0,Delivered,4.6
+FD10304,2026-03-20,C1180,Riya,Pune,Urban Bites,Chinese,Manchurian,3,163,489,Cash,23.0,Delivered,3.7
+FD10305,2026-10-14,C1076,Riya,Nagpur,Tasty Treats,Burger,Cheese Burger,3,169,507,Card,51.0,Delivered,4.4
+FD10306,2026-06-01,C1210,Pooja,Thane,Cafe Delight,Burger,Cheese Burger,3,190,570,Cash,,Cancelled,
+FD10307,2026-07-18,C1049,Meera,Nagpur,Urban Bites,Pizza,Veggie Pizza,2,229,458,Card,62.0,Delivered,4.9
+FD10308,2026-04-14,C1028,Sahil,Mumbai,Spice Villa,Biryani,Paneer Biryani,4,208,832,UPI,31.0,Delivered,4.7
+FD10309,2026-04-17,C1168,Sahil,Pune,Quick Eats,Chinese,Paneer Chilli,4,152,608,Card,20.0,Delivered,4.9
+FD10310,2026-09-23,C1025,Sneha,Mumbai,Royal Kitchen,Pizza,Paneer Pizza,4,408,1632,UPI,24.0,Delivered,4.9
+FD10311,2026-02-23,C1043,Rohan,Thane,Royal Kitchen,Burger,Paneer Burger,2,262,524,Card,,Cancelled,
+FD10312,2026-08-09,C1212,Anjali,Thane,Tasty Treats,Biryani,Mushroom Biryani,2,293,586,Card,46.0,Delivered,4.5
+FD10313,2026-09-23,C1035,Amit,Pune,The Food Corner,Chinese,Manchurian,4,254,1016,UPI,38.0,Delivered,4.2
+FD10314,2026-07-07,C1228,Manish,Mumbai,Tasty Treats,Burger,Cheese Burger,1,261,261,Cash,29.0,Delivered,3.3
+FD10315,2026-12-20,C1180,Manish,Pune,The Food Corner,Thali,Punjabi Thali,1,303,303,UPI,51.0,Delivered,4.7
+FD10316,2026-07-15,C1014,Amit,Thane,Food Hub,Desserts,Rasmalai,1,110,110,Cash,60.0,Delivered,4.6
+FD10317,2026-07-21,C1038,Priya,Nashik,Spice Villa,Chinese,Manchurian,3,152,456,Cash,34.0,Delivered,3.9
+FD10318,2026-10-14,C1051,Sahil,Nagpur,Tasty Treats,Chinese,Veg Noodles,4,251,1004,Card,,Cancelled,
+FD10319,2026-08-05,C1094,Vikas,Mumbai,Cafe Delight,Chinese,Manchurian,2,222,444,Cash,,Cancelled,
+FD10320,2026-07-11,C1040,Rahul,Pune,Food Hub,Chinese,Veg Noodles,3,299,897,UPI,34.0,Delivered,3.4
+FD10321,2026-10-03,C1055,Neha,Thane,The Food Corner,Chinese,Manchurian,3,218,654,Card,41.0,Delivered,3.4
+FD10322,2026-12-23,C1159,Pooja,Pune,Quick Eats,South Indian,Idli Sambar,1,214,214,Card,38.0,Delivered,3.4
+FD10323,2026-04-29,C1098,Meera,Pune,Cafe Delight,Pizza,Margherita Pizza,4,358,1432,Cash,,Cancelled,
+FD10324,2026-09-08,C1101,Rohan,Pune,Cafe Delight,Thali,Maharashtrian Thali,1,190,190,Card,53.0,Delivered,3.6
+FD10325,2026-04-26,C1039,Anjali,Nagpur,Urban Bites,Biryani,Paneer Biryani,3,250,750,UPI,55.0,Delivered,4.9
+FD10326,2026-04-16,C1168,Priya,Thane,Tasty Treats,Desserts,Rasmalai,2,159,318,UPI,48.0,Delivered,4.1
+FD10327,2026-03-16,C1187,Aarav,Nashik,Royal Kitchen,Biryani,Mushroom Biryani,2,347,694,Cash,31.0,Delivered,3.6
+FD10328,2026-04-29,C1153,Karan,Mumbai,Food Hub,Biryani,Paneer Biryani,3,207,621,Cash,58.0,Delivered,4.1
+FD10329,2026-03-12,C1042,Neha,Mumbai,Food Hub,Pizza,Veggie Pizza,2,477,954,Cash,,Cancelled,
+FD10330,2026-11-12,C1126,Anjali,Nagpur,Tasty Treats,Thali,Veg Thali,3,225,675,Cash,,Cancelled,
+FD10331,2026-01-22,C1225,Karan,Thane,Royal Kitchen,South Indian,Masala Dosa,4,217,868,Card,48.0,Delivered,3.9
+FD10332,2026-01-28,C1177,Meera,Mumbai,Quick Eats,Pizza,Veggie Pizza,1,317,317,Card,47.0,Delivered,3.6
+FD10333,2026-08-21,C1152,Neha,Nagpur,Spice Villa,South Indian,Masala Dosa,1,219,219,Cash,48.0,Delivered,3.0
+FD10334,2026-09-19,C1157,Rohan,Nagpur,Royal Kitchen,Biryani,Mushroom Biryani,2,209,418,UPI,,Cancelled,
+FD10335,2026-08-17,C1074,Rohan,Pune,Urban Bites,Thali,Veg Thali,3,225,675,UPI,46.0,Delivered,3.6
+FD10336,2026-05-02,C1056,Manish,Nagpur,Quick Eats,Pizza,Paneer Pizza,1,454,454,Cash,,Cancelled,
+FD10337,2026-03-16,C1219,Aditi,Thane,The Food Corner,South Indian,Masala Dosa,1,133,133,Cash,61.0,Delivered,3.7
+FD10338,2026-06-03,C1083,Vikas,Nagpur,Spice Villa,Pizza,Margherita Pizza,1,433,433,Cash,22.0,Delivered,3.2
+FD10339,2026-09-26,C1054,Neha,Thane,Food Hub,Thali,Maharashtrian Thali,1,264,264,UPI,,Cancelled,
+FD10340,2026-09-12,C1134,Sahil,Nagpur,Urban Bites,Chinese,Veg Noodles,4,295,1180,Card,28.0,Delivered,4.2
+FD10341,2026-07-31,C1012,Anjali,Nashik,Tasty Treats,Burger,Cheese Burger,2,150,300,UPI,,Cancelled,
+FD10342,2026-06-24,C1102,Manish,Thane,Food Hub,Desserts,Brownie,3,220,660,UPI,27.0,Delivered,4.4
+FD10343,2026-10-02,C1230,Anjali,Nagpur,Royal Kitchen,Burger,Cheese Burger,3,241,723,Card,60.0,Delivered,3.9
+FD10344,2026-01-16,C1087,Sakshi,Thane,Urban Bites,Pizza,Paneer Pizza,3,504,1512,Card,29.0,Delivered,3.6
+FD10345,2026-05-02,C1096,Nisha,Nashik,Tasty Treats,Chinese,Paneer Chilli,2,320,640,Card,46.0,Delivered,3.2
+FD10346,2026-03-20,C1049,Anjali,Nagpur,The Food Corner,Biryani,Veg Biryani,1,379,379,Cash,50.0,Delivered,4.8
+FD10347,2026-11-01,C1224,Rahul,Nashik,Quick Eats,Burger,Veg Burger,2,129,258,UPI,22.0,Delivered,4.4
+FD10348,2026-08-14,C1172,Sneha,Nashik,Urban Bites,Pizza,Paneer Pizza,1,515,515,UPI,37.0,Delivered,4.1
+FD10349,2026-12-27,C1206,Amit,Thane,Tasty Treats,Biryani,Veg Biryani,1,311,311,UPI,37.0,Delivered,3.3
+FD10350,2026-08-07,C1101,Rohan,Thane,Quick Eats,Pizza,Paneer Pizza,3,496,1488,Card,44.0,Delivered,3.1
+FD10351,2026-12-24,C1120,Sneha,Nagpur,The Food Corner,Biryani,Paneer Biryani,3,387,1161,Card,25.0,Delivered,4.6
+FD10352,2026-01-16,C1017,Sahil,Pune,Cafe Delight,Desserts,Rasmalai,4,180,720,Cash,40.0,Delivered,3.9
+FD10353,2026-02-06,C1203,Amit,Thane,Quick Eats,South Indian,Idli Sambar,3,112,336,Cash,40.0,Delivered,4.1
+FD10354,2026-10-30,C1111,Akash,Thane,Cafe Delight,Chinese,Paneer Chilli,2,263,526,Card,33.0,Delivered,4.6
+FD10355,2026-07-27,C1018,Isha,Pune,Royal Kitchen,Desserts,Brownie,2,198,396,Cash,48.0,Delivered,3.4
+FD10356,2026-08-17,C1051,Neha,Nashik,The Food Corner,South Indian,Masala Dosa,1,80,80,Card,44.0,Delivered,4.2
+FD10357,2026-10-09,C1248,Aditi,Pune,Cafe Delight,Thali,Maharashtrian Thali,3,283,849,UPI,38.0,Delivered,3.1
+FD10358,2026-07-15,C1112,Riya,Mumbai,Urban Bites,Thali,Punjabi Thali,1,277,277,Cash,,Cancelled,
+FD10359,2026-03-15,C1185,Sahil,Nagpur,Urban Bites,Burger,Paneer Burger,4,226,904,UPI,24.0,Delivered,4.3
+FD10360,2026-07-16,C1091,Karan,Mumbai,Royal Kitchen,Burger,Aloo Tikki Burger,4,228,912,Card,,Cancelled,
+FD10361,2026-07-08,C1029,Manish,Nagpur,Spice Villa,Pizza,Veggie Pizza,2,476,952,UPI,56.0,Delivered,4.0
+FD10362,2026-10-24,C1080,Isha,Pune,Cafe Delight,Desserts,Ice Cream,4,200,800,Card,63.0,Delivered,4.3
+FD10363,2026-11-02,C1192,Amit,Thane,The Food Corner,Thali,Veg Thali,4,255,1020,UPI,30.0,Delivered,3.1
+FD10364,2026-02-12,C1033,Meera,Pune,The Food Corner,Desserts,Rasmalai,2,86,172,Cash,,Cancelled,
+FD10365,2026-03-31,C1067,Karan,Nagpur,Urban Bites,Burger,Cheese Burger,3,123,369,Card,62.0,Delivered,3.9
+FD10366,2026-11-23,C1043,Neha,Thane,Cafe Delight,Thali,Veg Thali,3,278,834,UPI,62.0,Delivered,3.9
+FD10367,2026-07-19,C1122,Pooja,Mumbai,Royal Kitchen,Desserts,Ice Cream,1,157,157,UPI,44.0,Delivered,4.4
+FD10368,2026-11-30,C1220,Pooja,Nashik,The Food Corner,Biryani,Paneer Biryani,4,354,1416,Cash,47.0,Delivered,4.2
+FD10369,2026-04-03,C1081,Riya,Pune,Food Hub,Thali,Veg Thali,3,313,939,UPI,63.0,Delivered,4.4
+FD10370,2026-11-14,C1024,Aditi,Thane,Tasty Treats,Pizza,Veggie Pizza,1,488,488,Card,32.0,Delivered,3.1
+FD10371,2026-12-05,C1240,Rahul,Nagpur,The Food Corner,Desserts,Gulab Jamun,1,127,127,Cash,36.0,Delivered,3.6
+FD10372,2026-05-16,C1046,Nisha,Pune,Quick Eats,Desserts,Ice Cream,3,179,537,UPI,36.0,Delivered,4.9
+FD10373,2026-02-22,C1009,Rahul,Pune,The Food Corner,Chinese,Paneer Chilli,2,278,556,Cash,48.0,Delivered,4.4
+FD10374,2026-10-22,C1001,Meera,Nagpur,Quick Eats,Pizza,Veggie Pizza,2,547,1094,Cash,,Cancelled,
+FD10375,2026-01-29,C1162,Rahul,Nashik,Cafe Delight,South Indian,Masala Dosa,2,203,406,UPI,63.0,Delivered,3.6
+FD10376,2026-02-24,C1162,Vikas,Nagpur,Spice Villa,Thali,Punjabi Thali,3,256,768,Card,,Cancelled,
+FD10377,2026-08-19,C1248,Aarav,Pune,Cafe Delight,South Indian,Idli Sambar,2,141,282,UPI,51.0,Delivered,4.1
+FD10378,2026-03-14,C1126,Aarav,Nagpur,Food Hub,Biryani,Mushroom Biryani,1,234,234,UPI,24.0,Delivered,3.1
+FD10379,2026-02-24,C1030,Sahil,Thane,Tasty Treats,Desserts,Brownie,1,196,196,UPI,57.0,Delivered,3.1
+FD10380,2026-10-31,C1045,Anjali,Pune,Spice Villa,Thali,Veg Thali,4,215,860,Cash,33.0,Delivered,4.5
+FD10381,2026-03-22,C1005,Sahil,Pune,Food Hub,Burger,Aloo Tikki Burger,2,261,522,UPI,60.0,Delivered,4.2
+FD10382,2026-08-19,C1106,Karan,Mumbai,Food Hub,Burger,Veg Burger,3,297,891,Card,60.0,Delivered,3.5
+FD10383,2026-11-13,C1093,Riya,Thane,Tasty Treats,Burger,Aloo Tikki Burger,1,197,197,Cash,53.0,Delivered,5.0
+FD10384,2026-01-23,C1014,Vikas,Nashik,Tasty Treats,Thali,Maharashtrian Thali,2,307,614,Cash,30.0,Delivered,4.3
+FD10385,2026-02-06,C1230,Karan,Nagpur,Cafe Delight,Biryani,Paneer Biryani,4,369,1476,Cash,51.0,Delivered,4.0
+FD10386,2026-04-23,C1019,Sahil,Thane,Quick Eats,Burger,Cheese Burger,2,203,406,UPI,,Cancelled,
+FD10387,2026-05-19,C1052,Anjali,Mumbai,Food Hub,South Indian,Idli Sambar,2,179,358,Card,60.0,Delivered,3.7
+FD10388,2026-11-06,C1041,Isha,Mumbai,Tasty Treats,Chinese,Veg Noodles,3,257,771,UPI,34.0,Delivered,4.8
+FD10389,2026-10-24,C1057,Manish,Mumbai,Food Hub,South Indian,Uttapam,2,198,396,Cash,35.0,Delivered,3.7
+FD10390,2026-09-11,C1062,Rahul,Thane,Food Hub,Pizza,Margherita Pizza,4,478,1912,Card,,Cancelled,
+FD10391,2026-12-09,C1079,Rohan,Nagpur,Food Hub,Desserts,Rasmalai,2,103,206,Cash,,Cancelled,
+FD10392,2026-06-20,C1136,Aditi,Nashik,Royal Kitchen,South Indian,Idli Sambar,4,198,792,Cash,44.0,Delivered,4.8
+FD10393,2026-11-13,C1011,Vikas,Nashik,Urban Bites,Desserts,Brownie,1,173,173,Card,44.0,Delivered,3.7
+FD10394,2026-05-17,C1129,Akash,Nashik,Food Hub,Chinese,Veg Noodles,2,169,338,UPI,34.0,Delivered,3.6
+FD10395,2026-12-11,C1243,Rahul,Mumbai,Quick Eats,Biryani,Paneer Biryani,4,314,1256,UPI,48.0,Delivered,4.2
+FD10396,2026-03-19,C1224,Neha,Thane,Food Hub,Pizza,Veggie Pizza,2,367,734,Cash,,Cancelled,
+FD10397,2026-09-24,C1166,Anjali,Nagpur,Cafe Delight,South Indian,Idli Sambar,4,85,340,Card,34.0,Delivered,4.7
+FD10398,2026-06-06,C1044,Pooja,Mumbai,Quick Eats,Desserts,Ice Cream,4,193,772,Cash,56.0,Delivered,3.3
+FD10399,2026-12-29,C1178,Priya,Mumbai,Tasty Treats,Biryani,Veg Biryani,2,296,592,UPI,31.0,Delivered,4.9
+FD10400,2026-08-18,C1139,Rohan,Thane,The Food Corner,Pizza,Paneer Pizza,2,445,890,UPI,42.0,Delivered,3.3
+FD10401,2026-08-31,C1230,Amit,Thane,Urban Bites,Pizza,Veggie Pizza,4,294,1176,Card,61.0,Delivered,4.4
+FD10402,2026-04-23,C1115,Vikas,Pune,Cafe Delight,Desserts,Rasmalai,3,109,327,UPI,45.0,Delivered,4.2
+FD10403,2026-04-10,C1126,Anjali,Thane,Food Hub,Chinese,Manchurian,2,277,554,Card,,Cancelled,
+FD10404,2026-10-15,C1023,Neha,Nagpur,Royal Kitchen,Biryani,Paneer Biryani,2,278,556,Cash,39.0,Delivered,5.0
+FD10405,2026-09-26,C1086,Rahul,Thane,Royal Kitchen,Biryani,Veg Biryani,4,393,1572,UPI,,Cancelled,
+FD10406,2026-09-09,C1011,Amit,Thane,The Food Corner,Pizza,Veggie Pizza,3,432,1296,Cash,44.0,Delivered,3.6
+FD10407,2026-12-19,C1166,Karan,Pune,Spice Villa,Chinese,Paneer Chilli,2,216,432,Cash,46.0,Delivered,3.4
+FD10408,2026-01-09,C1217,Pooja,Mumbai,Food Hub,South Indian,Masala Dosa,3,191,573,UPI,52.0,Delivered,4.5
+FD10409,2026-09-29,C1164,Rahul,Thane,Tasty Treats,Biryani,Paneer Biryani,2,193,386,Card,23.0,Delivered,3.6
+FD10410,2026-09-23,C1073,Vikas,Nagpur,Royal Kitchen,Burger,Veg Burger,2,202,404,Cash,29.0,Delivered,3.0
+FD10411,2026-02-09,C1030,Priya,Pune,Quick Eats,Burger,Veg Burger,2,248,496,Cash,46.0,Delivered,3.9
+FD10412,2026-12-22,C1037,Karan,Nashik,Urban Bites,Biryani,Mushroom Biryani,3,332,996,UPI,27.0,Delivered,3.4
+FD10413,2026-09-20,C1152,Aditi,Nagpur,Spice Villa,Burger,Veg Burger,4,139,556,Cash,22.0,Delivered,4.6
+FD10414,2026-01-15,C1024,Priya,Nashik,Cafe Delight,Pizza,Margherita Pizza,3,225,675,Cash,31.0,Delivered,4.3
+FD10415,2026-10-03,C1002,Sneha,Mumbai,Quick Eats,Burger,Paneer Burger,1,268,268,Cash,30.0,Delivered,4.8
+FD10416,2026-06-10,C1032,Nisha,Pune,Urban Bites,Desserts,Brownie,4,188,752,Cash,46.0,Delivered,3.2
+FD10417,2026-06-09,C1176,Nisha,Mumbai,Royal Kitchen,Thali,Punjabi Thali,3,278,834,Cash,49.0,Delivered,4.2
+FD10418,2026-12-04,C1174,Rahul,Pune,Urban Bites,Thali,Punjabi Thali,2,305,610,Cash,45.0,Delivered,3.9
+FD10419,2026-05-23,C1196,Manish,Thane,The Food Corner,South Indian,Masala Dosa,2,166,332,Card,47.0,Delivered,4.5
+FD10420,2026-09-12,C1060,Priya,Pune,Spice Villa,South Indian,Vada Sambar,4,210,840,Card,27.0,Delivered,3.5
+FD10421,2026-09-24,C1197,Sahil,Nagpur,Tasty Treats,Pizza,Margherita Pizza,4,233,932,Cash,24.0,Delivered,4.3
+FD10422,2026-03-02,C1099,Nisha,Nashik,Royal Kitchen,Desserts,Rasmalai,4,219,876,Cash,47.0,Delivered,4.8
+FD10423,2026-03-10,C1080,Sakshi,Nagpur,Spice Villa,South Indian,Masala Dosa,1,157,157,Card,,Cancelled,
+FD10424,2026-07-13,C1158,Vikas,Nashik,Cafe Delight,Desserts,Rasmalai,4,94,376,UPI,51.0,Delivered,4.2
+FD10425,2026-07-02,C1106,Vikas,Pune,Tasty Treats,Pizza,Margherita Pizza,2,407,814,UPI,47.0,Delivered,3.7
+FD10426,2026-08-05,C1146,Meera,Nagpur,The Food Corner,Burger,Cheese Burger,1,198,198,UPI,22.0,Delivered,3.9
+FD10427,2026-06-22,C1128,Meera,Nashik,Urban Bites,Desserts,Rasmalai,1,105,105,Card,64.0,Delivered,4.4
+FD10428,2026-10-21,C1103,Karan,Thane,Spice Villa,Biryani,Paneer Biryani,4,342,1368,Card,23.0,Delivered,3.6
+FD10429,2026-04-18,C1089,Rahul,Nashik,The Food Corner,Thali,Maharashtrian Thali,1,301,301,Cash,,Cancelled,
+FD10430,2026-04-06,C1148,Sahil,Mumbai,Quick Eats,Desserts,Ice Cream,2,220,440,Cash,60.0,Delivered,4.4
+FD10431,2026-02-02,C1163,Neha,Nagpur,The Food Corner,Desserts,Rasmalai,1,141,141,Cash,47.0,Delivered,3.8
+FD10432,2026-06-08,C1119,Sahil,Thane,Royal Kitchen,Desserts,Brownie,3,118,354,Cash,35.0,Delivered,4.6
+FD10433,2026-09-06,C1201,Aarav,Pune,Spice Villa,Desserts,Gulab Jamun,2,151,302,Cash,61.0,Delivered,4.7
+FD10434,2026-03-03,C1134,Manish,Thane,The Food Corner,Chinese,Fried Rice,1,241,241,Cash,56.0,Delivered,4.5
+FD10435,2026-05-21,C1113,Akash,Nashik,Food Hub,Pizza,Farmhouse Pizza,1,380,380,Cash,26.0,Delivered,3.4
+FD10436,2026-07-08,C1211,Amit,Pune,Food Hub,Chinese,Fried Rice,1,314,314,Card,43.0,Delivered,4.0
+FD10437,2026-07-21,C1238,Pooja,Nashik,Spice Villa,Desserts,Gulab Jamun,2,172,344,UPI,48.0,Delivered,3.8
+FD10438,2026-08-30,C1189,Akash,Nashik,Royal Kitchen,Biryani,Veg Biryani,2,261,522,UPI,,Cancelled,
+FD10439,2026-12-22,C1008,Aditi,Mumbai,Quick Eats,Thali,Veg Thali,3,263,789,Card,,Cancelled,
+FD10440,2026-11-29,C1196,Priya,Thane,Royal Kitchen,Burger,Veg Burger,4,280,1120,Cash,35.0,Delivered,4.0
+FD10441,2026-07-08,C1047,Sakshi,Nagpur,Tasty Treats,South Indian,Uttapam,2,163,326,UPI,,Cancelled,
+FD10442,2026-11-04,C1067,Priya,Pune,Cafe Delight,Pizza,Farmhouse Pizza,1,456,456,UPI,,Cancelled,
+FD10443,2026-05-17,C1074,Sahil,Nagpur,Urban Bites,Chinese,Veg Noodles,1,312,312,Cash,65.0,Delivered,3.4
+FD10444,2026-05-01,C1159,Nisha,Mumbai,Cafe Delight,Thali,Veg Thali,2,217,434,Card,38.0,Delivered,5.0
+FD10445,2026-12-29,C1109,Isha,Nashik,Spice Villa,Desserts,Rasmalai,1,181,181,UPI,,Cancelled,
+FD10446,2026-06-04,C1102,Vikas,Mumbai,Food Hub,Chinese,Veg Noodles,1,295,295,Card,52.0,Delivered,4.2
+FD10447,2026-03-14,C1067,Sneha,Nashik,Food Hub,Burger,Cheese Burger,2,246,492,UPI,,Cancelled,
+FD10448,2026-09-09,C1196,Priya,Thane,Quick Eats,South Indian,Vada Sambar,3,147,441,UPI,40.0,Delivered,4.5
+FD10449,2026-03-01,C1230,Sahil,Pune,Quick Eats,Burger,Paneer Burger,1,166,166,Cash,,Cancelled,
+FD10450,2026-03-28,C1192,Meera,Nashik,Tasty Treats,Desserts,Rasmalai,4,169,676,Card,38.0,Delivered,3.4
+FD10451,2026-12-15,C1032,Sakshi,Nashik,Spice Villa,Pizza,Farmhouse Pizza,4,259,1036,Cash,38.0,Delivered,4.4
+FD10452,2026-12-02,C1160,Nisha,Nashik,Urban Bites,Burger,Veg Burger,1,288,288,UPI,41.0,Delivered,4.9
+FD10453,2026-05-11,C1046,Karan,Nagpur,Spice Villa,Thali,Veg Thali,3,203,609,UPI,,Cancelled,
+FD10454,2026-06-08,C1232,Isha,Mumbai,Cafe Delight,Thali,Veg Thali,2,305,610,Card,,Cancelled,
+FD10455,2026-07-08,C1158,Rohan,Nagpur,Royal Kitchen,Pizza,Paneer Pizza,2,470,940,UPI,,Cancelled,
+FD10456,2026-02-10,C1233,Sahil,Nashik,Urban Bites,Pizza,Paneer Pizza,4,334,1336,UPI,38.0,Delivered,3.9
+FD10457,2026-02-18,C1119,Manish,Nashik,Cafe Delight,Desserts,Ice Cream,2,99,198,Cash,52.0,Delivered,3.8
+FD10458,2026-06-02,C1081,Manish,Nagpur,Quick Eats,Chinese,Veg Noodles,1,186,186,Card,46.0,Delivered,4.8
+FD10459,2026-10-01,C1005,Aarav,Nagpur,Spice Villa,Thali,Punjabi Thali,3,207,621,UPI,,Cancelled,
+FD10460,2026-01-08,C1049,Sneha,Pune,Tasty Treats,Burger,Aloo Tikki Burger,4,288,1152,UPI,25.0,Delivered,3.3
+FD10461,2026-03-17,C1122,Akash,Pune,Spice Villa,Burger,Aloo Tikki Burger,2,231,462,UPI,,Cancelled,
+FD10462,2026-07-20,C1014,Anjali,Pune,Spice Villa,Burger,Aloo Tikki Burger,4,125,500,Card,56.0,Delivered,4.7
+FD10463,2026-09-20,C1152,Isha,Nagpur,Tasty Treats,Thali,Maharashtrian Thali,4,282,1128,Card,,Cancelled,
+FD10464,2026-11-27,C1089,Nisha,Nagpur,Food Hub,Pizza,Margherita Pizza,4,515,2060,UPI,51.0,Delivered,4.2
+FD10465,2026-12-03,C1120,Priya,Nashik,Royal Kitchen,Biryani,Mushroom Biryani,2,292,584,Cash,58.0,Delivered,4.7
+FD10466,2026-03-08,C1045,Neha,Mumbai,Quick Eats,Thali,Maharashtrian Thali,3,350,1050,UPI,,Cancelled,
+FD10467,2026-09-15,C1009,Rahul,Nashik,Royal Kitchen,Thali,Punjabi Thali,4,246,984,UPI,63.0,Delivered,3.3
+FD10468,2026-09-21,C1155,Sneha,Pune,Quick Eats,Chinese,Manchurian,1,227,227,Cash,29.0,Delivered,4.7
+FD10469,2026-04-16,C1234,Vikas,Mumbai,The Food Corner,Thali,Veg Thali,1,309,309,Card,30.0,Delivered,4.3
+FD10470,2026-08-01,C1197,Aarav,Mumbai,Quick Eats,South Indian,Uttapam,1,165,165,Cash,,Cancelled,
+FD10471,2026-04-27,C1036,Akash,Nagpur,Royal Kitchen,Biryani,Mushroom Biryani,2,275,550,Cash,,Cancelled,
+FD10472,2026-03-26,C1112,Aditi,Nagpur,Food Hub,Thali,Maharashtrian Thali,3,201,603,Card,40.0,Delivered,3.8
+FD10473,2026-01-05,C1212,Pooja,Thane,Urban Bites,Desserts,Brownie,1,182,182,Card,40.0,Delivered,4.8
+FD10474,2026-04-12,C1226,Amit,Pune,Food Hub,South Indian,Uttapam,2,193,386,Card,,Cancelled,
+FD10475,2026-11-22,C1041,Aarav,Pune,The Food Corner,Biryani,Paneer Biryani,2,252,504,UPI,53.0,Delivered,3.7
+FD10476,2026-11-30,C1241,Sneha,Nagpur,The Food Corner,Thali,Punjabi Thali,4,340,1360,Card,27.0,Delivered,3.1
+FD10477,2026-10-21,C1173,Priya,Nagpur,Tasty Treats,Desserts,Gulab Jamun,4,139,556,UPI,38.0,Delivered,4.3
+FD10478,2026-03-08,C1122,Neha,Nagpur,Spice Villa,Biryani,Mushroom Biryani,2,205,410,Cash,23.0,Delivered,3.8
+FD10479,2026-09-06,C1183,Nisha,Mumbai,Spice Villa,Desserts,Rasmalai,4,205,820,Card,29.0,Delivered,4.0
+FD10480,2026-01-21,C1134,Priya,Pune,Cafe Delight,Burger,Aloo Tikki Burger,4,160,640,Cash,43.0,Delivered,4.1
+FD10481,2026-09-08,C1001,Sneha,Thane,Cafe Delight,Biryani,Paneer Biryani,3,382,1146,UPI,38.0,Delivered,3.4
+FD10482,2026-08-24,C1195,Nisha,Nagpur,Urban Bites,Thali,Veg Thali,4,301,1204,Card,28.0,Delivered,4.0
+FD10483,2026-03-26,C1182,Aarav,Thane,The Food Corner,Biryani,Veg Biryani,4,281,1124,Card,61.0,Delivered,3.2
+FD10484,2026-09-15,C1230,Aarav,Pune,Urban Bites,Desserts,Gulab Jamun,1,213,213,UPI,,Cancelled,
+FD10485,2026-01-12,C1088,Akash,Mumbai,Royal Kitchen,Biryani,Veg Biryani,2,201,402,UPI,51.0,Delivered,4.7
+FD10486,2026-02-15,C1040,Amit,Nagpur,Urban Bites,Thali,Maharashtrian Thali,3,223,669,UPI,29.0,Delivered,3.4
+FD10487,2026-06-15,C1067,Sakshi,Pune,Food Hub,Chinese,Fried Rice,2,165,330,UPI,,Cancelled,
+FD10488,2026-10-11,C1105,Rahul,Nagpur,Food Hub,Burger,Paneer Burger,4,249,996,Cash,,Cancelled,
+FD10489,2026-08-17,C1022,Meera,Mumbai,Urban Bites,Desserts,Brownie,1,112,112,Cash,,Cancelled,
+FD10490,2026-01-01,C1016,Sahil,Nashik,The Food Corner,Chinese,Manchurian,2,150,300,Card,61.0,Delivered,4.9
+FD10491,2026-12-24,C1032,Priya,Thane,The Food Corner,South Indian,Vada Sambar,2,91,182,Cash,39.0,Delivered,3.2
+FD10492,2026-11-03,C1085,Aarav,Mumbai,Food Hub,Burger,Cheese Burger,3,186,558,Card,41.0,Delivered,3.4
+FD10493,2026-12-10,C1114,Sneha,Nashik,Royal Kitchen,South Indian,Masala Dosa,1,205,205,Card,54.0,Delivered,3.1
+FD10494,2026-12-15,C1236,Vikas,Mumbai,Spice Villa,Biryani,Paneer Biryani,2,298,596,Card,21.0,Delivered,4.5
+FD10495,2026-11-23,C1102,Sneha,Nashik,Quick Eats,Desserts,Ice Cream,2,206,412,UPI,20.0,Delivered,3.4
+FD10496,2026-05-21,C1050,Aarav,Thane,The Food Corner,Chinese,Manchurian,2,172,344,Card,53.0,Delivered,4.5
+FD10497,2026-08-27,C1127,Vikas,Thane,Food Hub,Chinese,Paneer Chilli,1,222,222,Card,27.0,Delivered,4.4
+FD10498,2026-01-13,C1189,Karan,Nagpur,Spice Villa,Burger,Veg Burger,3,256,768,UPI,25.0,Delivered,4.8
+FD10499,2026-06-21,C1216,Pooja,Mumbai,Spice Villa,Burger,Paneer Burger,3,136,408,Cash,57.0,Delivered,4.6
+FD10500,2026-10-24,C1032,Rahul,Pune,Food Hub,Burger,Cheese Burger,1,253,253,Cash,,Cancelled,
+FD10501,2026-02-03,C1027,Aditi,Thane,Food Hub,Biryani,Mushroom Biryani,1,385,385,Cash,,Cancelled,
+FD10502,2026-08-26,C1204,Akash,Thane,Spice Villa,Thali,Punjabi Thali,4,296,1184,Cash,,Cancelled,
+FD10503,2026-04-10,C1232,Manish,Mumbai,The Food Corner,Desserts,Gulab Jamun,4,106,424,Cash,57.0,Delivered,4.6
+FD10504,2026-09-20,C1246,Vikas,Nashik,Urban Bites,South Indian,Uttapam,4,91,364,UPI,,Cancelled,
+FD10505,2026-10-14,C1220,Aditi,Nagpur,Cafe Delight,South Indian,Vada Sambar,3,212,636,UPI,52.0,Delivered,4.6
+FD10506,2026-06-21,C1158,Amit,Nagpur,Cafe Delight,Burger,Paneer Burger,1,168,168,UPI,57.0,Delivered,4.1
+FD10507,2026-06-19,C1207,Sakshi,Mumbai,Royal Kitchen,Pizza,Veggie Pizza,1,473,473,UPI,35.0,Delivered,4.0
+FD10508,2026-10-27,C1234,Vikas,Pune,Food Hub,Thali,Veg Thali,3,216,648,UPI,48.0,Delivered,3.4
+FD10509,2026-05-15,C1234,Sneha,Pune,Urban Bites,Burger,Cheese Burger,2,187,374,Cash,21.0,Delivered,3.4
+FD10510,2026-11-16,C1226,Akash,Pune,Spice Villa,Desserts,Gulab Jamun,3,175,525,UPI,53.0,Delivered,5.0
+FD10511,2026-10-28,C1049,Riya,Nashik,Urban Bites,Burger,Paneer Burger,2,216,432,Cash,22.0,Delivered,4.5
+FD10512,2026-11-27,C1193,Meera,Nashik,Quick Eats,Burger,Veg Burger,3,250,750,Card,30.0,Delivered,4.0
+FD10513,2026-11-23,C1236,Manish,Pune,Tasty Treats,South Indian,Idli Sambar,3,203,609,UPI,,Cancelled,
+FD10514,2026-02-13,C1076,Nisha,Thane,Cafe Delight,Burger,Aloo Tikki Burger,2,175,350,UPI,55.0,Delivered,3.2
+FD10515,2026-07-08,C1206,Sahil,Nashik,The Food Corner,Chinese,Veg Noodles,4,255,1020,Cash,,Cancelled,
+FD10516,2026-02-20,C1031,Rahul,Nashik,Food Hub,Pizza,Farmhouse Pizza,4,339,1356,Card,37.0,Delivered,4.9
+FD10517,2026-05-25,C1211,Vikas,Nagpur,Royal Kitchen,Burger,Cheese Burger,2,184,368,Card,20.0,Delivered,4.5
+FD10518,2026-10-28,C1202,Riya,Nagpur,Quick Eats,Thali,Maharashtrian Thali,1,238,238,Cash,50.0,Delivered,3.5
+FD10519,2026-03-07,C1079,Aarav,Nagpur,Cafe Delight,Thali,Veg Thali,3,295,885,Cash,43.0,Delivered,3.3
+FD10520,2026-06-19,C1146,Isha,Thane,Royal Kitchen,Burger,Aloo Tikki Burger,4,296,1184,Cash,28.0,Delivered,3.3
+FD10521,2026-11-24,C1230,Amit,Pune,Urban Bites,Burger,Aloo Tikki Burger,1,218,218,UPI,,Cancelled,
+FD10522,2026-12-04,C1135,Rahul,Nagpur,Food Hub,Desserts,Brownie,1,97,97,Cash,33.0,Delivered,3.5
+FD10523,2026-09-02,C1191,Rahul,Nagpur,Tasty Treats,Chinese,Veg Noodles,2,168,336,UPI,,Cancelled,
+FD10524,2026-08-23,C1071,Neha,Pune,Urban Bites,Thali,Veg Thali,3,330,990,Cash,52.0,Delivered,4.4
+FD10525,2026-08-22,C1089,Amit,Nagpur,Urban Bites,Pizza,Veggie Pizza,2,489,978,Cash,25.0,Delivered,3.6
+FD10526,2026-03-22,C1071,Riya,Nashik,Spice Villa,Burger,Paneer Burger,4,218,872,Card,35.0,Delivered,4.8
+FD10527,2026-05-10,C1054,Meera,Pune,Quick Eats,Desserts,Brownie,4,106,424,UPI,46.0,Delivered,3.9
+FD10528,2026-03-11,C1084,Nisha,Nagpur,Quick Eats,Pizza,Veggie Pizza,4,395,1580,UPI,27.0,Delivered,4.4
+FD10529,2026-10-01,C1190,Sakshi,Mumbai,Spice Villa,Pizza,Farmhouse Pizza,4,291,1164,Card,31.0,Delivered,3.6
+FD10530,2026-11-22,C1208,Meera,Pune,Royal Kitchen,Thali,Veg Thali,3,316,948,Card,48.0,Delivered,4.4
+FD10531,2026-08-04,C1008,Aarav,Nashik,Tasty Treats,Biryani,Paneer Biryani,1,192,192,Card,32.0,Delivered,3.2
+FD10532,2026-11-17,C1049,Isha,Mumbai,Royal Kitchen,Desserts,Gulab Jamun,2,186,372,Cash,40.0,Delivered,3.6
+FD10533,2026-08-23,C1057,Rahul,Nashik,Cafe Delight,Pizza,Farmhouse Pizza,2,274,548,UPI,20.0,Delivered,3.8
+FD10534,2026-11-20,C1179,Sakshi,Mumbai,Cafe Delight,Pizza,Farmhouse Pizza,4,374,1496,UPI,58.0,Delivered,3.6
+FD10535,2026-01-07,C1060,Aarav,Thane,Spice Villa,Desserts,Ice Cream,4,210,840,Cash,52.0,Delivered,4.2
+FD10536,2026-11-25,C1010,Karan,Thane,Quick Eats,Burger,Aloo Tikki Burger,2,140,280,Card,29.0,Delivered,3.8
+FD10537,2026-06-19,C1088,Karan,Mumbai,Food Hub,Biryani,Veg Biryani,3,381,1143,Card,21.0,Delivered,3.5
+FD10538,2026-02-05,C1245,Neha,Pune,Urban Bites,Burger,Paneer Burger,4,202,808,UPI,,Cancelled,
+FD10539,2026-08-28,C1080,Rohan,Mumbai,Tasty Treats,Burger,Veg Burger,2,260,520,Cash,,Cancelled,
+FD10540,2026-08-30,C1113,Akash,Thane,Royal Kitchen,Burger,Paneer Burger,3,267,801,UPI,45.0,Delivered,3.8
+FD10541,2026-06-06,C1117,Amit,Nagpur,Quick Eats,Thali,Punjabi Thali,1,219,219,UPI,36.0,Delivered,3.8
+FD10542,2026-07-27,C1237,Akash,Nagpur,Cafe Delight,Biryani,Veg Biryani,4,228,912,Cash,,Cancelled,
+FD10543,2026-05-11,C1198,Vikas,Thane,Quick Eats,South Indian,Vada Sambar,1,178,178,Card,,Cancelled,
+FD10544,2026-01-15,C1179,Priya,Nashik,Quick Eats,Desserts,Ice Cream,1,202,202,Card,60.0,Delivered,4.4
+FD10545,2026-07-23,C1181,Manish,Pune,Tasty Treats,Burger,Cheese Burger,2,268,536,Cash,,Cancelled,
+FD10546,2026-06-26,C1209,Priya,Nashik,Tasty Treats,Burger,Aloo Tikki Burger,3,248,744,Card,26.0,Delivered,4.3
+FD10547,2026-12-02,C1074,Akash,Mumbai,Urban Bites,South Indian,Vada Sambar,1,104,104,Cash,,Cancelled,
+FD10548,2026-04-09,C1067,Akash,Nagpur,Spice Villa,Burger,Paneer Burger,2,166,332,Card,23.0,Delivered,4.5
+FD10549,2026-02-21,C1003,Aditi,Nashik,Food Hub,Burger,Veg Burger,3,216,648,Card,50.0,Delivered,4.0
+FD10550,2026-08-31,C1194,Anjali,Thane,Royal Kitchen,Chinese,Veg Noodles,1,236,236,Cash,,Cancelled,
+FD10551,2026-12-24,C1103,Priya,Pune,Spice Villa,Biryani,Mushroom Biryani,3,272,816,Card,26.0,Delivered,3.0
+FD10552,2026-06-14,C1005,Vikas,Pune,Cafe Delight,Biryani,Mushroom Biryani,2,338,676,Card,20.0,Delivered,5.0
+FD10553,2026-04-10,C1183,Priya,Thane,Food Hub,South Indian,Idli Sambar,4,100,400,UPI,44.0,Delivered,3.6
+FD10554,2026-12-04,C1180,Rahul,Pune,Royal Kitchen,South Indian,Masala Dosa,3,194,582,Card,35.0,Delivered,3.4
+FD10555,2026-09-09,C1024,Anjali,Mumbai,Spice Villa,Pizza,Farmhouse Pizza,3,416,1248,Card,54.0,Delivered,4.3
+FD10556,2026-02-15,C1088,Manish,Mumbai,Spice Villa,Biryani,Paneer Biryani,4,399,1596,Card,38.0,Delivered,3.2
+FD10557,2026-06-13,C1198,Vikas,Mumbai,Tasty Treats,Biryani,Veg Biryani,3,368,1104,UPI,44.0,Delivered,5.0
+FD10558,2026-12-07,C1218,Aditi,Thane,Cafe Delight,South Indian,Masala Dosa,4,155,620,Cash,58.0,Delivered,3.6
+FD10559,2026-04-18,C1218,Karan,Pune,Urban Bites,Chinese,Veg Noodles,3,266,798,Cash,41.0,Delivered,3.3
+FD10560,2026-09-28,C1187,Amit,Nashik,Tasty Treats,Desserts,Rasmalai,3,188,564,Card,45.0,Delivered,3.8
+FD10561,2026-12-23,C1124,Amit,Mumbai,Tasty Treats,Thali,Maharashtrian Thali,4,347,1388,UPI,56.0,Delivered,3.3
+FD10562,2026-12-14,C1216,Rohan,Pune,Spice Villa,Thali,Maharashtrian Thali,2,276,552,Cash,,Cancelled,
+FD10563,2026-05-06,C1009,Sneha,Mumbai,Royal Kitchen,South Indian,Idli Sambar,1,166,166,Cash,,Cancelled,
+FD10564,2026-07-08,C1003,Sneha,Pune,Spice Villa,Biryani,Mushroom Biryani,2,383,766,UPI,,Cancelled,
+FD10565,2026-11-27,C1180,Akash,Nashik,Urban Bites,South Indian,Idli Sambar,1,202,202,UPI,44.0,Delivered,4.0
+FD10566,2026-02-02,C1133,Manish,Thane,Spice Villa,Biryani,Veg Biryani,2,185,370,UPI,,Cancelled,
+FD10567,2026-04-16,C1168,Rohan,Pune,The Food Corner,Desserts,Gulab Jamun,2,194,388,UPI,22.0,Delivered,3.3
+FD10568,2026-09-23,C1232,Amit,Thane,Quick Eats,Pizza,Margherita Pizza,3,406,1218,UPI,22.0,Delivered,4.9
+FD10569,2026-03-14,C1077,Neha,Mumbai,Tasty Treats,Chinese,Paneer Chilli,3,270,810,Card,35.0,Delivered,3.1
+FD10570,2026-05-11,C1174,Akash,Mumbai,Tasty Treats,Biryani,Paneer Biryani,2,199,398,UPI,45.0,Delivered,3.9
+FD10571,2026-08-11,C1098,Aarav,Thane,Tasty Treats,Desserts,Ice Cream,2,121,242,UPI,40.0,Delivered,5.0
+FD10572,2026-04-26,C1071,Aarav,Pune,Royal Kitchen,Biryani,Veg Biryani,1,196,196,UPI,37.0,Delivered,3.3
+FD10573,2026-05-25,C1142,Pooja,Thane,Spice Villa,South Indian,Masala Dosa,1,158,158,UPI,64.0,Delivered,4.1
+FD10574,2026-09-20,C1183,Priya,Mumbai,Urban Bites,Burger,Cheese Burger,4,208,832,Cash,36.0,Delivered,3.0
+FD10575,2026-08-28,C1129,Amit,Nashik,Royal Kitchen,Chinese,Fried Rice,1,313,313,Card,48.0,Delivered,5.0
+FD10576,2026-02-17,C1043,Manish,Pune,Spice Villa,Desserts,Brownie,3,103,309,Card,24.0,Delivered,4.5
+FD10577,2026-04-08,C1234,Aarav,Nagpur,Cafe Delight,Biryani,Mushroom Biryani,4,353,1412,UPI,45.0,Delivered,3.0
+FD10578,2026-01-27,C1109,Sahil,Nagpur,Urban Bites,Desserts,Gulab Jamun,4,124,496,Cash,28.0,Delivered,4.0
+FD10579,2026-10-19,C1101,Neha,Nashik,Food Hub,Pizza,Paneer Pizza,2,496,992,Cash,20.0,Delivered,4.5
+FD10580,2026-04-06,C1103,Vikas,Pune,Spice Villa,Chinese,Paneer Chilli,1,224,224,Cash,20.0,Delivered,3.7
+FD10581,2026-08-29,C1102,Vikas,Nashik,Cafe Delight,South Indian,Idli Sambar,1,185,185,Cash,62.0,Delivered,3.5
+FD10582,2026-01-03,C1092,Neha,Pune,Tasty Treats,Burger,Cheese Burger,1,288,288,Cash,,Cancelled,
+FD10583,2026-10-09,C1127,Priya,Nashik,Royal Kitchen,Pizza,Farmhouse Pizza,4,435,1740,Card,27.0,Delivered,3.8
+FD10584,2026-12-14,C1213,Anjali,Nagpur,Food Hub,Desserts,Rasmalai,2,119,238,Cash,63.0,Delivered,3.5
+FD10585,2026-02-28,C1222,Pooja,Mumbai,Royal Kitchen,South Indian,Vada Sambar,3,189,567,UPI,35.0,Delivered,3.6
+FD10586,2026-01-20,C1071,Neha,Mumbai,Royal Kitchen,South Indian,Masala Dosa,2,118,236,UPI,,Cancelled,
+FD10587,2026-09-19,C1110,Aditi,Nashik,Spice Villa,Chinese,Manchurian,1,218,218,Cash,47.0,Delivered,4.0
+FD10588,2026-04-19,C1074,Sahil,Nashik,Spice Villa,Biryani,Paneer Biryani,3,261,783,Cash,62.0,Delivered,4.5
+FD10589,2026-07-05,C1191,Manish,Thane,Cafe Delight,Burger,Cheese Burger,4,205,820,UPI,41.0,Delivered,3.7
+FD10590,2026-02-20,C1020,Riya,Thane,Cafe Delight,Desserts,Ice Cream,2,110,220,Cash,32.0,Delivered,4.4
+FD10591,2026-07-07,C1115,Sneha,Nagpur,Spice Villa,Desserts,Rasmalai,2,187,374,Cash,55.0,Delivered,5.0
+FD10592,2026-07-23,C1127,Riya,Thane,Spice Villa,South Indian,Masala Dosa,2,113,226,UPI,64.0,Delivered,3.4
+FD10593,2026-09-20,C1117,Meera,Thane,The Food Corner,South Indian,Uttapam,4,132,528,Cash,57.0,Delivered,4.4
+FD10594,2026-03-17,C1242,Pooja,Mumbai,The Food Corner,Thali,Veg Thali,3,316,948,UPI,38.0,Delivered,3.1
+FD10595,2026-05-16,C1185,Priya,Nagpur,The Food Corner,Desserts,Brownie,2,174,348,Cash,65.0,Delivered,4.8
+FD10596,2026-12-01,C1066,Isha,Thane,Tasty Treats,Pizza,Margherita Pizza,3,332,996,Cash,64.0,Delivered,3.8
+FD10597,2026-07-08,C1038,Sahil,Pune,Quick Eats,Burger,Cheese Burger,3,268,804,UPI,,Cancelled,
+FD10598,2026-07-21,C1176,Isha,Mumbai,Spice Villa,South Indian,Idli Sambar,2,126,252,UPI,30.0,Delivered,4.8
+FD10599,2026-02-26,C1212,Aarav,Pune,Urban Bites,Pizza,Veggie Pizza,2,452,904,UPI,44.0,Delivered,3.8
+FD10600,2026-03-13,C1123,Manish,Nagpur,Urban Bites,Thali,Veg Thali,3,318,954,Cash,65.0,Delivered,3.2
+FD10601,2026-06-01,C1027,Meera,Nagpur,Urban Bites,Biryani,Paneer Biryani,2,319,638,UPI,22.0,Delivered,3.2
+FD10602,2026-12-18,C1227,Sneha,Nagpur,Urban Bites,Burger,Veg Burger,2,218,436,UPI,,Cancelled,
+FD10603,2026-08-08,C1136,Anjali,Thane,Urban Bites,Burger,Veg Burger,3,139,417,Card,58.0,Delivered,3.3
+FD10604,2026-12-31,C1205,Rahul,Pune,Urban Bites,South Indian,Idli Sambar,3,106,318,Card,36.0,Delivered,4.6
+FD10605,2026-05-23,C1038,Rahul,Nashik,Urban Bites,Burger,Cheese Burger,2,234,468,UPI,,Cancelled,
+FD10606,2026-12-01,C1236,Karan,Nagpur,Royal Kitchen,Thali,Punjabi Thali,3,334,1002,Card,28.0,Delivered,4.6
+FD10607,2026-01-09,C1093,Riya,Nagpur,Urban Bites,South Indian,Uttapam,2,187,374,UPI,43.0,Delivered,3.0
+FD10608,2026-03-12,C1031,Priya,Nagpur,Food Hub,Pizza,Paneer Pizza,3,291,873,Card,34.0,Delivered,3.1
+FD10609,2026-05-06,C1020,Aarav,Thane,Royal Kitchen,South Indian,Vada Sambar,1,98,98,UPI,43.0,Delivered,3.3
+FD10610,2026-11-27,C1178,Aarav,Nashik,Spice Villa,Thali,Veg Thali,4,266,1064,UPI,,Cancelled,
+FD10611,2026-12-30,C1059,Akash,Mumbai,The Food Corner,Pizza,Margherita Pizza,2,477,954,UPI,56.0,Delivered,4.0
+FD10612,2026-06-10,C1168,Sakshi,Nagpur,Urban Bites,Chinese,Paneer Chilli,2,196,392,UPI,64.0,Delivered,3.9
+FD10613,2026-03-25,C1139,Sneha,Pune,Tasty Treats,Thali,Punjabi Thali,4,334,1336,Card,21.0,Delivered,3.5
+FD10614,2026-09-05,C1012,Aditi,Nashik,Spice Villa,Pizza,Paneer Pizza,2,502,1004,Cash,56.0,Delivered,5.0
+FD10615,2026-09-15,C1026,Meera,Mumbai,Food Hub,Pizza,Paneer Pizza,3,423,1269,Card,41.0,Delivered,3.8
+FD10616,2026-04-21,C1207,Priya,Mumbai,Cafe Delight,Thali,Punjabi Thali,4,200,800,Cash,65.0,Delivered,3.5
+FD10617,2026-03-20,C1146,Sahil,Pune,Food Hub,Thali,Veg Thali,3,241,723,UPI,59.0,Delivered,4.2
+FD10618,2026-06-30,C1023,Rahul,Mumbai,Quick Eats,Thali,Punjabi Thali,1,221,221,Cash,37.0,Delivered,4.2
+FD10619,2026-07-29,C1220,Isha,Mumbai,Quick Eats,South Indian,Vada Sambar,4,204,816,Cash,,Cancelled,
+FD10620,2026-10-15,C1003,Priya,Pune,The Food Corner,Chinese,Fried Rice,3,255,765,Cash,35.0,Delivered,4.4
+FD10621,2026-02-25,C1022,Rohan,Pune,Royal Kitchen,Burger,Aloo Tikki Burger,1,219,219,Cash,,Cancelled,
+FD10622,2026-03-21,C1243,Sahil,Mumbai,Tasty Treats,Burger,Aloo Tikki Burger,3,201,603,Cash,49.0,Delivered,3.1
+FD10623,2026-12-17,C1109,Pooja,Nashik,Urban Bites,Chinese,Veg Noodles,4,261,1044,UPI,21.0,Delivered,4.9
+FD10624,2026-02-17,C1230,Akash,Nashik,The Food Corner,Burger,Veg Burger,3,140,420,UPI,31.0,Delivered,4.7
+FD10625,2026-01-06,C1144,Isha,Mumbai,Spice Villa,Burger,Cheese Burger,4,241,964,Card,,Cancelled,
+FD10626,2026-09-24,C1185,Aarav,Nagpur,Urban Bites,Desserts,Brownie,3,207,621,Card,63.0,Delivered,3.8
+FD10627,2026-12-14,C1148,Aarav,Nashik,Cafe Delight,South Indian,Masala Dosa,1,219,219,UPI,33.0,Delivered,4.9
+FD10628,2026-09-25,C1250,Anjali,Pune,Urban Bites,Biryani,Paneer Biryani,1,296,296,Cash,,Cancelled,
+FD10629,2026-11-21,C1073,Isha,Pune,Spice Villa,South Indian,Vada Sambar,2,218,436,UPI,,Cancelled,
+FD10630,2026-08-04,C1055,Karan,Nagpur,Royal Kitchen,Pizza,Margherita Pizza,4,273,1092,UPI,62.0,Delivered,3.6
+FD10631,2026-05-16,C1079,Akash,Mumbai,Food Hub,Burger,Aloo Tikki Burger,1,238,238,Cash,37.0,Delivered,4.8
+FD10632,2026-05-04,C1143,Sakshi,Mumbai,Royal Kitchen,Pizza,Margherita Pizza,1,298,298,UPI,56.0,Delivered,5.0
+FD10633,2026-12-30,C1206,Priya,Thane,Spice Villa,Thali,Maharashtrian Thali,4,312,1248,Card,47.0,Delivered,3.5
+FD10634,2026-01-06,C1161,Manish,Mumbai,Food Hub,Chinese,Paneer Chilli,3,163,489,Card,,Cancelled,
+FD10635,2026-05-06,C1186,Sakshi,Nashik,Food Hub,Desserts,Gulab Jamun,4,141,564,Cash,39.0,Delivered,3.4
+FD10636,2026-04-03,C1024,Rahul,Nagpur,Cafe Delight,Pizza,Farmhouse Pizza,1,546,546,UPI,38.0,Delivered,3.5
+FD10637,2026-07-12,C1228,Anjali,Nagpur,Urban Bites,South Indian,Masala Dosa,4,204,816,UPI,,Cancelled,
+FD10638,2026-11-11,C1154,Riya,Pune,Urban Bites,Biryani,Veg Biryani,2,335,670,Card,,Cancelled,
+FD10639,2026-02-28,C1231,Neha,Pune,Cafe Delight,Desserts,Ice Cream,1,212,212,UPI,33.0,Delivered,4.7
+FD10640,2026-09-11,C1112,Meera,Nagpur,Tasty Treats,Burger,Veg Burger,2,190,380,Cash,49.0,Delivered,4.5
+FD10641,2026-08-17,C1109,Isha,Nashik,Cafe Delight,Burger,Paneer Burger,3,146,438,Card,,Cancelled,
+FD10642,2026-05-10,C1151,Akash,Nashik,Cafe Delight,Pizza,Veggie Pizza,4,322,1288,Cash,22.0,Delivered,4.9
+FD10643,2026-03-16,C1200,Anjali,Pune,Food Hub,Pizza,Margherita Pizza,2,385,770,Cash,62.0,Delivered,3.7
+FD10644,2026-04-22,C1027,Riya,Nashik,Spice Villa,Desserts,Gulab Jamun,3,96,288,Card,58.0,Delivered,3.4
+FD10645,2026-03-05,C1116,Rohan,Thane,Cafe Delight,Desserts,Rasmalai,4,206,824,Card,37.0,Delivered,3.8
+FD10646,2026-01-19,C1230,Riya,Thane,Food Hub,South Indian,Idli Sambar,1,81,81,Cash,,Cancelled,
+FD10647,2026-06-10,C1127,Isha,Pune,Royal Kitchen,Desserts,Gulab Jamun,1,150,150,Cash,45.0,Delivered,3.2
+FD10648,2026-03-13,C1027,Anjali,Nagpur,Tasty Treats,Desserts,Rasmalai,4,106,424,UPI,23.0,Delivered,4.7
+FD10649,2026-06-18,C1177,Isha,Nagpur,The Food Corner,Pizza,Farmhouse Pizza,3,495,1485,Card,39.0,Delivered,3.2
+FD10650,2026-12-09,C1032,Meera,Thane,Tasty Treats,Burger,Paneer Burger,4,152,608,Card,,Cancelled,
+FD10651,2026-05-05,C1169,Neha,Pune,Spice Villa,South Indian,Uttapam,3,103,309,Cash,55.0,Delivered,4.7
+FD10652,2026-09-28,C1132,Anjali,Nashik,Quick Eats,Pizza,Farmhouse Pizza,1,330,330,Card,33.0,Delivered,4.6
+FD10653,2026-04-07,C1018,Pooja,Nagpur,Urban Bites,Burger,Veg Burger,2,213,426,Card,,Cancelled,
+FD10654,2026-12-05,C1136,Nisha,Nashik,The Food Corner,Biryani,Mushroom Biryani,1,207,207,UPI,37.0,Delivered,3.1
+FD10655,2026-07-09,C1026,Aditi,Nagpur,Royal Kitchen,Chinese,Veg Noodles,3,268,804,UPI,23.0,Delivered,3.9
+FD10656,2026-02-25,C1175,Aditi,Mumbai,Spice Villa,Biryani,Veg Biryani,4,250,1000,UPI,,Cancelled,
+FD10657,2026-07-27,C1101,Sakshi,Pune,Tasty Treats,Pizza,Margherita Pizza,1,514,514,Card,59.0,Delivered,4.4
+FD10658,2026-09-15,C1233,Isha,Nagpur,The Food Corner,Thali,Maharashtrian Thali,3,332,996,Card,20.0,Delivered,3.2
+FD10659,2026-08-08,C1086,Aarav,Mumbai,The Food Corner,Burger,Paneer Burger,3,162,486,UPI,,Cancelled,
+FD10660,2026-05-29,C1214,Karan,Thane,Urban Bites,Burger,Veg Burger,3,269,807,UPI,21.0,Delivered,4.1
+FD10661,2026-05-10,C1094,Nisha,Pune,Cafe Delight,Thali,Veg Thali,1,245,245,Cash,,Cancelled,
+FD10662,2026-04-23,C1169,Priya,Nashik,Quick Eats,Desserts,Ice Cream,4,85,340,UPI,,Cancelled,
+FD10663,2026-09-27,C1045,Pooja,Nashik,Cafe Delight,Burger,Aloo Tikki Burger,3,142,426,Cash,,Cancelled,
+FD10664,2026-10-18,C1248,Vikas,Nashik,Spice Villa,Chinese,Paneer Chilli,3,319,957,UPI,47.0,Delivered,4.6
+FD10665,2026-01-21,C1056,Amit,Thane,Spice Villa,South Indian,Idli Sambar,4,121,484,UPI,38.0,Delivered,3.0
+FD10666,2026-09-15,C1171,Riya,Mumbai,Spice Villa,South Indian,Vada Sambar,1,80,80,Card,38.0,Delivered,4.6
+FD10667,2026-11-23,C1099,Akash,Nagpur,Spice Villa,Biryani,Veg Biryani,2,200,400,Cash,35.0,Delivered,4.6
+FD10668,2026-04-13,C1078,Amit,Pune,The Food Corner,Biryani,Mushroom Biryani,3,291,873,Card,28.0,Delivered,3.8
+FD10669,2026-08-27,C1108,Akash,Nagpur,Food Hub,Desserts,Rasmalai,2,193,386,Card,49.0,Delivered,3.7
+FD10670,2026-10-17,C1225,Amit,Pune,Royal Kitchen,Pizza,Veggie Pizza,1,291,291,UPI,59.0,Delivered,4.1
+FD10671,2026-05-29,C1145,Sahil,Nashik,Food Hub,South Indian,Masala Dosa,4,93,372,UPI,41.0,Delivered,4.2
+FD10672,2026-01-04,C1207,Sahil,Thane,Tasty Treats,Desserts,Gulab Jamun,2,137,274,UPI,39.0,Delivered,4.3
+FD10673,2026-01-13,C1214,Meera,Nagpur,Royal Kitchen,Pizza,Margherita Pizza,2,529,1058,UPI,,Cancelled,
+FD10674,2026-12-03,C1158,Sneha,Nagpur,Urban Bites,Pizza,Paneer Pizza,4,467,1868,Card,,Cancelled,
+FD10675,2026-10-29,C1127,Vikas,Nashik,Royal Kitchen,Pizza,Farmhouse Pizza,2,343,686,Cash,38.0,Delivered,4.3
+FD10676,2026-01-06,C1149,Amit,Pune,Quick Eats,Desserts,Gulab Jamun,4,197,788,UPI,,Cancelled,
+FD10677,2026-09-26,C1100,Meera,Pune,Urban Bites,Biryani,Veg Biryani,4,182,728,Card,42.0,Delivered,4.8
+FD10678,2026-07-12,C1247,Sahil,Thane,Urban Bites,Burger,Cheese Burger,3,155,465,Card,,Cancelled,
+FD10679,2026-03-23,C1060,Sneha,Pune,Quick Eats,Desserts,Ice Cream,2,183,366,Card,21.0,Delivered,4.7
+FD10680,2026-02-07,C1114,Vikas,Thane,Food Hub,South Indian,Vada Sambar,2,178,356,UPI,27.0,Delivered,3.1
+FD10681,2026-12-14,C1074,Karan,Mumbai,Urban Bites,Biryani,Veg Biryani,4,343,1372,Cash,,Cancelled,
+FD10682,2026-10-18,C1140,Rahul,Nashik,Urban Bites,Thali,Maharashtrian Thali,2,215,430,Card,43.0,Delivered,4.5
+FD10683,2026-11-17,C1097,Rahul,Thane,Spice Villa,Desserts,Rasmalai,2,170,340,UPI,24.0,Delivered,3.9
+FD10684,2026-05-29,C1237,Pooja,Nagpur,Cafe Delight,Thali,Maharashtrian Thali,3,264,792,UPI,34.0,Delivered,4.6
+FD10685,2026-11-13,C1015,Riya,Pune,Quick Eats,Thali,Veg Thali,3,259,777,Cash,,Cancelled,
+FD10686,2026-06-18,C1237,Aditi,Mumbai,Quick Eats,Desserts,Gulab Jamun,1,95,95,UPI,55.0,Delivered,4.6
+FD10687,2026-09-12,C1130,Karan,Nashik,Royal Kitchen,Thali,Maharashtrian Thali,1,213,213,Cash,22.0,Delivered,3.2
+FD10688,2026-01-27,C1100,Sakshi,Mumbai,Royal Kitchen,Biryani,Veg Biryani,1,378,378,Card,,Cancelled,
+FD10689,2026-01-30,C1061,Karan,Pune,Food Hub,South Indian,Idli Sambar,1,174,174,UPI,,Cancelled,
+FD10690,2026-11-05,C1168,Karan,Nashik,Urban Bites,South Indian,Masala Dosa,1,94,94,Card,22.0,Delivered,3.6
+FD10691,2026-07-07,C1200,Riya,Nashik,Tasty Treats,South Indian,Uttapam,1,219,219,Card,48.0,Delivered,4.4
+FD10692,2026-10-11,C1054,Sneha,Nashik,Urban Bites,Biryani,Paneer Biryani,1,285,285,UPI,53.0,Delivered,3.5
+FD10693,2026-06-03,C1212,Rahul,Pune,The Food Corner,Burger,Aloo Tikki Burger,4,125,500,Card,,Cancelled,
+FD10694,2026-01-27,C1170,Amit,Pune,Cafe Delight,South Indian,Uttapam,1,91,91,UPI,62.0,Delivered,3.9
+FD10695,2026-12-14,C1074,Riya,Nagpur,Royal Kitchen,Chinese,Fried Rice,3,227,681,Card,26.0,Delivered,4.1
+FD10696,2026-10-05,C1076,Anjali,Thane,Royal Kitchen,Desserts,Ice Cream,2,83,166,UPI,25.0,Delivered,5.0
+FD10697,2026-08-16,C1119,Aarav,Nagpur,Food Hub,Chinese,Fried Rice,3,171,513,Cash,36.0,Delivered,4.7
+FD10698,2026-05-13,C1197,Pooja,Nashik,Quick Eats,Pizza,Paneer Pizza,4,546,2184,UPI,24.0,Delivered,3.9
+FD10699,2026-10-24,C1082,Aditi,Thane,Tasty Treats,Burger,Paneer Burger,2,287,574,UPI,,Cancelled,
+FD10700,2026-09-17,C1114,Sneha,Thane,Spice Villa,Desserts,Ice Cream,3,91,273,UPI,42.0,Delivered,3.2
+FD10701,2026-06-21,C1250,Akash,Nashik,Quick Eats,Burger,Cheese Burger,3,138,414,Cash,58.0,Delivered,4.6
+FD10702,2026-09-18,C1201,Manish,Nashik,Tasty Treats,Chinese,Veg Noodles,2,291,582,Cash,40.0,Delivered,4.0
+FD10703,2026-10-03,C1188,Sneha,Thane,Food Hub,Thali,Maharashtrian Thali,1,324,324,Card,,Cancelled,
+FD10704,2026-03-01,C1178,Karan,Nagpur,Royal Kitchen,South Indian,Uttapam,3,155,465,Cash,34.0,Delivered,3.9
+FD10705,2026-07-28,C1173,Manish,Mumbai,The Food Corner,Pizza,Paneer Pizza,1,405,405,Cash,54.0,Delivered,3.5
+FD10706,2026-01-08,C1043,Sneha,Nagpur,The Food Corner,Biryani,Paneer Biryani,1,287,287,Card,31.0,Delivered,4.8
+FD10707,2026-07-18,C1232,Akash,Nashik,Urban Bites,Desserts,Rasmalai,1,122,122,Cash,52.0,Delivered,4.7
+FD10708,2026-07-29,C1162,Nisha,Nagpur,The Food Corner,Desserts,Brownie,3,107,321,Cash,42.0,Delivered,4.9
+FD10709,2026-07-14,C1083,Nisha,Mumbai,The Food Corner,Desserts,Brownie,2,174,348,UPI,,Cancelled,
+FD10710,2026-04-02,C1245,Priya,Pune,Tasty Treats,Burger,Cheese Burger,4,132,528,Cash,40.0,Delivered,3.8
+FD10711,2026-08-13,C1058,Rohan,Nashik,The Food Corner,Chinese,Fried Rice,3,170,510,Card,,Cancelled,
+FD10712,2026-10-04,C1138,Neha,Pune,Quick Eats,Thali,Veg Thali,2,223,446,UPI,58.0,Delivered,4.8
+FD10713,2026-03-03,C1114,Akash,Nagpur,The Food Corner,Biryani,Veg Biryani,3,367,1101,UPI,27.0,Delivered,4.4
+FD10714,2026-08-21,C1162,Meera,Pune,Cafe Delight,Thali,Veg Thali,3,263,789,UPI,52.0,Delivered,3.7
+FD10715,2026-04-23,C1173,Neha,Nashik,Quick Eats,South Indian,Masala Dosa,3,89,267,UPI,57.0,Delivered,3.8
+FD10716,2026-02-04,C1126,Riya,Thane,Tasty Treats,South Indian,Idli Sambar,4,102,408,Card,,Cancelled,
+FD10717,2026-05-30,C1172,Sahil,Nagpur,Royal Kitchen,Burger,Veg Burger,4,277,1108,Card,39.0,Delivered,4.7
+FD10718,2026-03-01,C1046,Nisha,Nashik,Spice Villa,Biryani,Mushroom Biryani,4,236,944,Cash,35.0,Delivered,4.3
+FD10719,2026-07-29,C1016,Riya,Nashik,The Food Corner,Desserts,Rasmalai,2,140,280,Card,37.0,Delivered,4.0
+FD10720,2026-01-24,C1079,Nisha,Nagpur,Tasty Treats,Biryani,Paneer Biryani,4,282,1128,Card,41.0,Delivered,4.3
+FD10721,2026-12-27,C1086,Vikas,Thane,Spice Villa,Burger,Paneer Burger,1,276,276,Card,44.0,Delivered,3.2
+FD10722,2026-04-21,C1142,Karan,Pune,Food Hub,Pizza,Farmhouse Pizza,3,494,1482,UPI,43.0,Delivered,3.7
+FD10723,2026-12-19,C1064,Aditi,Nashik,Spice Villa,Thali,Maharashtrian Thali,1,252,252,Cash,21.0,Delivered,3.5
+FD10724,2026-03-19,C1025,Manish,Nagpur,Tasty Treats,Desserts,Rasmalai,2,186,372,Card,54.0,Delivered,4.2
+FD10725,2026-12-02,C1148,Sahil,Nagpur,The Food Corner,Thali,Punjabi Thali,3,297,891,Cash,26.0,Delivered,3.5
+FD10726,2026-09-12,C1187,Sakshi,Nashik,Spice Villa,Pizza,Farmhouse Pizza,4,507,2028,Cash,44.0,Delivered,3.0
+FD10727,2026-11-19,C1250,Rahul,Pune,Urban Bites,Burger,Veg Burger,4,234,936,UPI,41.0,Delivered,3.3
+FD10728,2026-05-10,C1106,Amit,Nashik,Urban Bites,Thali,Punjabi Thali,2,195,390,UPI,,Cancelled,
+FD10729,2026-06-10,C1246,Karan,Nashik,Quick Eats,Biryani,Mushroom Biryani,4,356,1424,Card,,Cancelled,
+FD10730,2026-02-28,C1010,Akash,Nagpur,Urban Bites,South Indian,Masala Dosa,1,176,176,Card,30.0,Delivered,3.4
+FD10731,2026-05-31,C1185,Pooja,Thane,Cafe Delight,Thali,Maharashtrian Thali,4,210,840,Card,,Cancelled,
+FD10732,2026-06-19,C1238,Priya,Mumbai,Quick Eats,Biryani,Mushroom Biryani,2,313,626,UPI,50.0,Delivered,3.9
+FD10733,2026-02-18,C1016,Isha,Nagpur,Urban Bites,Biryani,Paneer Biryani,2,197,394,UPI,54.0,Delivered,3.9
+FD10734,2026-07-26,C1240,Pooja,Thane,Tasty Treats,Biryani,Mushroom Biryani,2,183,366,UPI,43.0,Delivered,4.2
+FD10735,2026-06-19,C1148,Manish,Thane,The Food Corner,Chinese,Manchurian,1,284,284,Card,,Cancelled,
+FD10736,2026-01-01,C1083,Rahul,Pune,Urban Bites,Thali,Maharashtrian Thali,4,337,1348,Card,29.0,Delivered,3.3
+FD10737,2026-07-13,C1199,Sakshi,Nagpur,Cafe Delight,Thali,Punjabi Thali,4,323,1292,Cash,,Cancelled,
+FD10738,2026-10-14,C1114,Sahil,Nashik,Spice Villa,Thali,Maharashtrian Thali,3,216,648,Card,,Cancelled,
+FD10739,2026-04-08,C1098,Vikas,Mumbai,Food Hub,South Indian,Vada Sambar,2,199,398,UPI,59.0,Delivered,4.1
+FD10740,2026-11-28,C1071,Sahil,Nagpur,Food Hub,South Indian,Vada Sambar,2,164,328,Card,58.0,Delivered,3.5
+FD10741,2026-11-28,C1193,Riya,Pune,Food Hub,Desserts,Ice Cream,3,196,588,Cash,50.0,Delivered,4.5
+FD10742,2026-10-06,C1072,Neha,Thane,Food Hub,Pizza,Farmhouse Pizza,2,287,574,Cash,40.0,Delivered,3.2
+FD10743,2026-08-02,C1215,Aditi,Pune,Tasty Treats,Thali,Maharashtrian Thali,3,350,1050,Card,,Cancelled,
+FD10744,2026-03-30,C1163,Aarav,Nashik,The Food Corner,Burger,Cheese Burger,1,233,233,Card,,Cancelled,
+FD10745,2026-02-14,C1048,Anjali,Thane,Food Hub,Biryani,Veg Biryani,3,394,1182,UPI,25.0,Delivered,3.4
+FD10746,2026-07-14,C1181,Amit,Mumbai,The Food Corner,Thali,Veg Thali,2,344,688,UPI,28.0,Delivered,3.6
+FD10747,2026-05-16,C1024,Sahil,Nashik,Cafe Delight,Chinese,Fried Rice,4,185,740,Cash,,Cancelled,
+FD10748,2026-11-27,C1208,Amit,Mumbai,Cafe Delight,Thali,Maharashtrian Thali,4,219,876,Card,64.0,Delivered,3.9
+FD10749,2026-04-06,C1122,Priya,Nagpur,Cafe Delight,Chinese,Fried Rice,1,259,259,Cash,53.0,Delivered,4.3
+FD10750,2026-06-21,C1087,Sneha,Mumbai,Cafe Delight,Chinese,Paneer Chilli,1,142,142,Cash,,Cancelled,
+FD10751,2026-05-05,C1065,Vikas,Thane,Cafe Delight,Burger,Aloo Tikki Burger,2,232,464,Cash,,Cancelled,
+FD10752,2026-01-15,C1042,Meera,Mumbai,The Food Corner,Desserts,Rasmalai,3,187,561,Card,56.0,Delivered,3.8
+FD10753,2026-08-24,C1001,Priya,Mumbai,Urban Bites,Desserts,Brownie,2,159,318,Cash,49.0,Delivered,3.8
+FD10754,2026-06-26,C1026,Sahil,Thane,Royal Kitchen,Biryani,Veg Biryani,2,291,582,Card,20.0,Delivered,4.0
+FD10755,2026-05-25,C1210,Akash,Thane,Royal Kitchen,Burger,Aloo Tikki Burger,4,300,1200,Card,45.0,Delivered,4.5
+FD10756,2026-11-09,C1154,Sakshi,Pune,Tasty Treats,Pizza,Paneer Pizza,4,520,2080,UPI,52.0,Delivered,4.6
+FD10757,2026-06-09,C1100,Sahil,Pune,The Food Corner,South Indian,Idli Sambar,1,103,103,Cash,47.0,Delivered,3.3
+FD10758,2026-01-07,C1042,Anjali,Mumbai,Royal Kitchen,Burger,Paneer Burger,4,147,588,Card,,Cancelled,
+FD10759,2026-08-19,C1129,Vikas,Nagpur,Cafe Delight,South Indian,Masala Dosa,4,93,372,Card,58.0,Delivered,4.6
+FD10760,2026-12-29,C1152,Pooja,Mumbai,Quick Eats,Biryani,Veg Biryani,2,374,748,Cash,41.0,Delivered,4.9
+FD10761,2026-12-12,C1076,Aarav,Thane,The Food Corner,Pizza,Veggie Pizza,3,240,720,UPI,36.0,Delivered,3.9
+FD10762,2026-09-30,C1190,Sakshi,Mumbai,Urban Bites,Biryani,Paneer Biryani,4,263,1052,UPI,42.0,Delivered,4.5
+FD10763,2026-01-21,C1020,Anjali,Nashik,Food Hub,Chinese,Veg Noodles,2,210,420,UPI,53.0,Delivered,4.1
+FD10764,2026-02-10,C1215,Akash,Pune,Tasty Treats,Chinese,Veg Noodles,4,248,992,Card,36.0,Delivered,4.4
+FD10765,2026-01-24,C1155,Sakshi,Mumbai,The Food Corner,Biryani,Paneer Biryani,2,326,652,Cash,37.0,Delivered,4.0
+FD10766,2026-01-10,C1182,Anjali,Mumbai,Spice Villa,Pizza,Veggie Pizza,2,229,458,Card,26.0,Delivered,3.4
+FD10767,2026-06-27,C1211,Nisha,Mumbai,Quick Eats,Biryani,Mushroom Biryani,4,342,1368,Card,41.0,Delivered,3.7
+FD10768,2026-10-15,C1089,Rahul,Mumbai,Cafe Delight,South Indian,Idli Sambar,2,88,176,Cash,,Cancelled,
+FD10769,2026-08-01,C1196,Aarav,Nashik,Quick Eats,Biryani,Paneer Biryani,4,219,876,UPI,,Cancelled,
+FD10770,2026-07-25,C1141,Akash,Nashik,Tasty Treats,South Indian,Idli Sambar,4,181,724,Cash,31.0,Delivered,4.7
+FD10771,2026-04-26,C1220,Sakshi,Nagpur,Quick Eats,Chinese,Fried Rice,3,268,804,Cash,,Cancelled,
+FD10772,2026-07-16,C1149,Akash,Nagpur,Royal Kitchen,Thali,Punjabi Thali,2,298,596,UPI,63.0,Delivered,4.8
+FD10773,2026-10-19,C1161,Sahil,Pune,Cafe Delight,Desserts,Gulab Jamun,2,184,368,UPI,59.0,Delivered,3.5
+FD10774,2026-01-16,C1053,Manish,Nagpur,Quick Eats,Desserts,Rasmalai,2,200,400,UPI,28.0,Delivered,3.6
+FD10775,2026-02-05,C1002,Aditi,Nagpur,Quick Eats,Desserts,Rasmalai,2,164,328,Cash,49.0,Delivered,4.4
+FD10776,2026-01-21,C1094,Sakshi,Thane,Quick Eats,Pizza,Veggie Pizza,3,495,1485,Cash,38.0,Delivered,4.6
+FD10777,2026-09-05,C1054,Pooja,Pune,Cafe Delight,Thali,Veg Thali,1,285,285,Card,29.0,Delivered,4.8
+FD10778,2026-10-18,C1071,Isha,Pune,Urban Bites,Desserts,Gulab Jamun,4,155,620,UPI,48.0,Delivered,4.4
+FD10779,2026-12-11,C1076,Priya,Mumbai,Urban Bites,Chinese,Fried Rice,1,214,214,Card,50.0,Delivered,4.4
+FD10780,2026-09-18,C1191,Meera,Nagpur,Quick Eats,Biryani,Paneer Biryani,3,187,561,Card,36.0,Delivered,3.7
+FD10781,2026-09-05,C1230,Sakshi,Pune,Spice Villa,Burger,Cheese Burger,2,248,496,Cash,53.0,Delivered,4.0
+FD10782,2026-08-24,C1146,Aarav,Thane,Tasty Treats,Burger,Cheese Burger,2,158,316,Card,,Cancelled,
+FD10783,2026-09-25,C1064,Karan,Nashik,Urban Bites,Burger,Cheese Burger,1,280,280,Card,23.0,Delivered,3.9
+FD10784,2026-03-09,C1134,Amit,Pune,Tasty Treats,Desserts,Brownie,2,151,302,UPI,24.0,Delivered,4.8
+FD10785,2026-03-01,C1114,Rahul,Nagpur,Tasty Treats,Burger,Aloo Tikki Burger,4,257,1028,UPI,,Cancelled,
+FD10786,2026-11-11,C1194,Nisha,Pune,The Food Corner,Chinese,Manchurian,4,168,672,Cash,57.0,Delivered,4.6
+FD10787,2026-05-08,C1088,Pooja,Thane,The Food Corner,Chinese,Fried Rice,4,263,1052,Card,36.0,Delivered,4.7
+FD10788,2026-12-11,C1078,Sneha,Nagpur,Cafe Delight,South Indian,Masala Dosa,2,210,420,Card,24.0,Delivered,4.5
+FD10789,2026-02-22,C1176,Amit,Thane,Tasty Treats,Desserts,Brownie,2,158,316,Card,,Cancelled,
+FD10790,2026-08-31,C1168,Isha,Nagpur,The Food Corner,Desserts,Brownie,3,120,360,UPI,40.0,Delivered,4.9
+FD10791,2026-08-02,C1002,Sakshi,Pune,Royal Kitchen,Biryani,Paneer Biryani,3,258,774,Cash,47.0,Delivered,4.1
+FD10792,2026-07-15,C1084,Riya,Thane,Tasty Treats,Desserts,Brownie,4,145,580,UPI,21.0,Delivered,3.6
+FD10793,2026-01-24,C1200,Sakshi,Nagpur,Tasty Treats,Chinese,Paneer Chilli,3,223,669,Cash,,Cancelled,
+FD10794,2026-05-26,C1029,Sahil,Mumbai,Spice Villa,Chinese,Paneer Chilli,1,210,210,Cash,,Cancelled,
+FD10795,2026-10-21,C1140,Pooja,Thane,The Food Corner,Thali,Maharashtrian Thali,4,323,1292,Card,48.0,Delivered,3.5
+FD10796,2026-04-27,C1118,Vikas,Nashik,Tasty Treats,Pizza,Farmhouse Pizza,1,380,380,Card,,Cancelled,
+FD10797,2026-09-07,C1205,Aditi,Thane,Food Hub,Desserts,Ice Cream,3,185,555,Card,,Cancelled,
+FD10798,2026-02-08,C1145,Rahul,Thane,Spice Villa,Biryani,Veg Biryani,4,384,1536,Card,60.0,Delivered,3.1
+FD10799,2026-08-20,C1228,Priya,Nashik,Spice Villa,Burger,Veg Burger,4,286,1144,UPI,,Cancelled,
+FD10800,2026-07-19,C1005,Aarav,Mumbai,Cafe Delight,Desserts,Ice Cream,4,182,728,Cash,20.0,Delivered,4.2
+FD10801,2026-10-23,C1040,Neha,Mumbai,Tasty Treats,Burger,Cheese Burger,2,292,584,Cash,56.0,Delivered,4.9
+FD10802,2026-04-28,C1169,Neha,Mumbai,The Food Corner,Burger,Veg Burger,1,274,274,UPI,40.0,Delivered,4.7
+FD10803,2026-04-17,C1098,Aditi,Nagpur,Quick Eats,South Indian,Vada Sambar,2,115,230,Cash,48.0,Delivered,4.7
+FD10804,2026-09-08,C1190,Isha,Nashik,Cafe Delight,Burger,Paneer Burger,4,151,604,Cash,33.0,Delivered,3.2
+FD10805,2026-08-04,C1103,Sneha,Nashik,Cafe Delight,Burger,Paneer Burger,1,212,212,Cash,20.0,Delivered,3.8
+FD10806,2026-06-15,C1012,Priya,Mumbai,Urban Bites,Thali,Veg Thali,4,300,1200,Card,37.0,Delivered,4.5
+FD10807,2026-03-22,C1108,Rohan,Mumbai,Urban Bites,Pizza,Farmhouse Pizza,2,291,582,Card,43.0,Delivered,4.2
+FD10808,2026-05-16,C1160,Anjali,Pune,Food Hub,Thali,Maharashtrian Thali,2,232,464,Cash,45.0,Delivered,4.3
+FD10809,2026-04-25,C1024,Akash,Pune,Spice Villa,Pizza,Veggie Pizza,1,293,293,Cash,26.0,Delivered,3.0
+FD10810,2026-10-04,C1094,Isha,Pune,Quick Eats,South Indian,Uttapam,4,80,320,Cash,28.0,Delivered,3.6
+FD10811,2026-05-25,C1228,Isha,Pune,Tasty Treats,Desserts,Brownie,2,101,202,UPI,,Cancelled,
+FD10812,2026-03-16,C1149,Aditi,Nagpur,Food Hub,Biryani,Veg Biryani,3,351,1053,UPI,47.0,Delivered,3.7
+FD10813,2026-06-26,C1049,Manish,Nagpur,Quick Eats,Burger,Veg Burger,2,128,256,UPI,56.0,Delivered,4.0
+FD10814,2026-09-07,C1198,Riya,Nagpur,Spice Villa,South Indian,Vada Sambar,4,211,844,Card,41.0,Delivered,4.6
+FD10815,2026-03-03,C1141,Amit,Mumbai,Cafe Delight,Thali,Punjabi Thali,3,204,612,Cash,49.0,Delivered,4.7
+FD10816,2026-07-01,C1135,Isha,Mumbai,Food Hub,South Indian,Uttapam,1,210,210,Card,32.0,Delivered,4.5
+FD10817,2026-11-09,C1109,Neha,Nashik,Food Hub,Biryani,Mushroom Biryani,2,275,550,Cash,65.0,Delivered,3.3
+FD10818,2026-06-09,C1054,Isha,Thane,Spice Villa,Biryani,Paneer Biryani,4,262,1048,UPI,65.0,Delivered,4.1
+FD10819,2026-07-20,C1152,Neha,Mumbai,Cafe Delight,Thali,Punjabi Thali,2,220,440,UPI,,Cancelled,
+FD10820,2026-03-02,C1134,Amit,Thane,Spice Villa,Burger,Cheese Burger,2,151,302,Card,40.0,Delivered,3.0
+FD10821,2026-01-21,C1098,Pooja,Pune,Quick Eats,Chinese,Paneer Chilli,2,278,556,Cash,41.0,Delivered,4.8
+FD10822,2026-12-26,C1247,Akash,Nagpur,Food Hub,Chinese,Manchurian,4,162,648,Card,,Cancelled,
+FD10823,2026-09-06,C1063,Manish,Nagpur,Tasty Treats,Pizza,Paneer Pizza,3,348,1044,Card,20.0,Delivered,3.2
+FD10824,2026-01-22,C1155,Sneha,Thane,Spice Villa,South Indian,Vada Sambar,1,176,176,Card,,Cancelled,
+FD10825,2026-08-24,C1147,Meera,Pune,Royal Kitchen,Pizza,Margherita Pizza,2,404,808,Card,,Cancelled,
+FD10826,2026-08-22,C1218,Pooja,Nashik,Cafe Delight,Desserts,Rasmalai,1,164,164,Cash,46.0,Delivered,4.6
+FD10827,2026-03-30,C1217,Sahil,Pune,Cafe Delight,Burger,Cheese Burger,4,203,812,Cash,45.0,Delivered,4.5
+FD10828,2026-11-24,C1048,Sakshi,Mumbai,The Food Corner,Chinese,Manchurian,3,303,909,Card,,Cancelled,
+FD10829,2026-09-17,C1180,Riya,Nashik,Urban Bites,South Indian,Vada Sambar,3,120,360,Cash,32.0,Delivered,4.2
+FD10830,2026-07-17,C1027,Amit,Thane,Spice Villa,Chinese,Veg Noodles,2,207,414,Cash,45.0,Delivered,3.3
+FD10831,2026-08-14,C1166,Neha,Mumbai,Food Hub,Burger,Aloo Tikki Burger,1,260,260,Cash,35.0,Delivered,4.8
+FD10832,2026-11-18,C1148,Sakshi,Nashik,Cafe Delight,Burger,Veg Burger,4,226,904,Cash,,Cancelled,
+FD10833,2026-02-19,C1235,Meera,Nagpur,Cafe Delight,South Indian,Vada Sambar,3,171,513,UPI,54.0,Delivered,4.2
+FD10834,2026-09-12,C1152,Akash,Pune,Urban Bites,Thali,Maharashtrian Thali,2,327,654,UPI,49.0,Delivered,4.2
+FD10835,2026-01-15,C1183,Isha,Nagpur,Royal Kitchen,Chinese,Paneer Chilli,1,156,156,Card,56.0,Delivered,3.5
+FD10836,2026-09-18,C1243,Akash,Mumbai,Cafe Delight,Thali,Veg Thali,4,264,1056,UPI,56.0,Delivered,4.6
+FD10837,2026-03-24,C1188,Neha,Mumbai,Urban Bites,Chinese,Veg Noodles,3,297,891,UPI,,Cancelled,
+FD10838,2026-12-23,C1122,Priya,Nashik,Urban Bites,Pizza,Veggie Pizza,1,389,389,UPI,,Cancelled,
+FD10839,2026-11-28,C1163,Rahul,Nashik,Quick Eats,Biryani,Paneer Biryani,2,307,614,UPI,34.0,Delivered,3.7
+FD10840,2026-09-28,C1004,Aarav,Nashik,Royal Kitchen,Chinese,Fried Rice,1,314,314,Cash,20.0,Delivered,4.9
+FD10841,2026-03-21,C1154,Vikas,Thane,Urban Bites,Pizza,Paneer Pizza,1,308,308,Cash,26.0,Delivered,4.7
+FD10842,2026-04-03,C1152,Meera,Mumbai,Spice Villa,Desserts,Brownie,2,110,220,Cash,26.0,Delivered,3.7
+FD10843,2026-03-14,C1062,Sahil,Mumbai,Royal Kitchen,Burger,Paneer Burger,3,288,864,UPI,41.0,Delivered,3.5
+FD10844,2026-10-07,C1165,Neha,Nashik,Cafe Delight,Biryani,Veg Biryani,4,397,1588,UPI,,Cancelled,
+FD10845,2026-10-15,C1124,Isha,Nagpur,The Food Corner,South Indian,Idli Sambar,3,191,573,Cash,51.0,Delivered,3.2
+FD10846,2026-01-25,C1248,Amit,Nagpur,Tasty Treats,Thali,Punjabi Thali,1,224,224,Cash,23.0,Delivered,4.1
+FD10847,2026-04-06,C1229,Karan,Nashik,Spice Villa,Chinese,Veg Noodles,4,270,1080,Card,26.0,Delivered,3.9
+FD10848,2026-05-04,C1169,Anjali,Mumbai,Royal Kitchen,Burger,Aloo Tikki Burger,2,283,566,UPI,38.0,Delivered,3.0
+FD10849,2026-12-01,C1189,Pooja,Nagpur,Food Hub,Biryani,Paneer Biryani,1,333,333,Cash,33.0,Delivered,4.9
+FD10850,2026-01-22,C1179,Nisha,Mumbai,Tasty Treats,Thali,Punjabi Thali,4,340,1360,UPI,,Cancelled,
+FD10851,2026-12-22,C1102,Amit,Thane,The Food Corner,Desserts,Gulab Jamun,1,163,163,Cash,63.0,Delivered,4.4
+FD10852,2026-08-29,C1123,Sneha,Pune,Tasty Treats,Thali,Maharashtrian Thali,3,231,693,UPI,53.0,Delivered,5.0
+FD10853,2026-08-15,C1153,Aditi,Thane,Tasty Treats,Thali,Punjabi Thali,2,337,674,UPI,48.0,Delivered,4.5
+FD10854,2026-04-13,C1231,Aditi,Nagpur,Royal Kitchen,Desserts,Ice Cream,1,124,124,UPI,,Cancelled,
+FD10855,2026-02-05,C1216,Karan,Thane,The Food Corner,Biryani,Mushroom Biryani,1,340,340,Card,,Cancelled,
+FD10856,2026-06-14,C1095,Aditi,Mumbai,Spice Villa,Burger,Paneer Burger,3,148,444,Card,59.0,Delivered,4.4
+FD10857,2026-01-11,C1167,Sahil,Thane,Royal Kitchen,Burger,Veg Burger,4,264,1056,Cash,56.0,Delivered,4.1
+FD10858,2026-07-04,C1058,Priya,Nashik,Urban Bites,Desserts,Rasmalai,4,196,784,Cash,49.0,Delivered,4.1
+FD10859,2026-12-30,C1226,Riya,Mumbai,Royal Kitchen,Biryani,Veg Biryani,3,386,1158,UPI,,Cancelled,
+FD10860,2026-08-26,C1094,Anjali,Nashik,Royal Kitchen,Thali,Maharashtrian Thali,3,293,879,UPI,,Cancelled,
+FD10861,2026-07-11,C1165,Amit,Mumbai,Royal Kitchen,Desserts,Brownie,2,173,346,UPI,,Cancelled,
+FD10862,2026-09-22,C1111,Rohan,Nagpur,Food Hub,South Indian,Masala Dosa,4,93,372,Card,62.0,Delivered,3.8
+FD10863,2026-08-28,C1063,Priya,Nagpur,Cafe Delight,Burger,Aloo Tikki Burger,2,294,588,Card,29.0,Delivered,3.8
+FD10864,2026-07-02,C1052,Priya,Mumbai,The Food Corner,Thali,Maharashtrian Thali,1,264,264,UPI,40.0,Delivered,4.9
+FD10865,2026-03-23,C1231,Priya,Mumbai,Royal Kitchen,Biryani,Mushroom Biryani,3,301,903,UPI,26.0,Delivered,4.6
+FD10866,2026-08-16,C1025,Aditi,Mumbai,Royal Kitchen,Chinese,Paneer Chilli,2,319,638,Cash,62.0,Delivered,4.9
+FD10867,2026-10-18,C1089,Anjali,Pune,Cafe Delight,South Indian,Uttapam,2,172,344,UPI,51.0,Delivered,4.9
+FD10868,2026-09-11,C1005,Isha,Thane,Royal Kitchen,Burger,Paneer Burger,3,158,474,UPI,42.0,Delivered,4.2
+FD10869,2026-06-06,C1068,Nisha,Nagpur,Cafe Delight,Biryani,Paneer Biryani,2,313,626,UPI,61.0,Delivered,3.5
+FD10870,2026-08-29,C1098,Sakshi,Pune,The Food Corner,Biryani,Mushroom Biryani,4,321,1284,Card,39.0,Delivered,3.8
+FD10871,2026-02-12,C1234,Nisha,Pune,Cafe Delight,South Indian,Vada Sambar,3,167,501,Card,51.0,Delivered,3.6
+FD10872,2026-01-05,C1186,Aarav,Nashik,Spice Villa,Pizza,Margherita Pizza,2,274,548,UPI,25.0,Delivered,4.7
+FD10873,2026-02-16,C1001,Akash,Mumbai,Tasty Treats,Chinese,Paneer Chilli,3,320,960,UPI,31.0,Delivered,3.2
+FD10874,2026-12-13,C1152,Aditi,Nagpur,Urban Bites,Desserts,Gulab Jamun,4,130,520,Card,50.0,Delivered,3.6
+FD10875,2026-06-14,C1194,Karan,Mumbai,Royal Kitchen,Pizza,Margherita Pizza,2,321,642,Card,32.0,Delivered,3.4
+FD10876,2026-12-02,C1228,Pooja,Nashik,Urban Bites,Thali,Maharashtrian Thali,3,244,732,UPI,35.0,Delivered,4.1
+FD10877,2026-07-05,C1179,Isha,Pune,The Food Corner,Pizza,Margherita Pizza,4,396,1584,Card,40.0,Delivered,4.2
+FD10878,2026-01-22,C1177,Vikas,Nagpur,Quick Eats,Thali,Punjabi Thali,4,260,1040,Cash,34.0,Delivered,4.2
+FD10879,2026-11-20,C1039,Sakshi,Nashik,Food Hub,Biryani,Paneer Biryani,4,219,876,Cash,40.0,Delivered,3.8
+FD10880,2026-03-18,C1070,Anjali,Mumbai,Food Hub,Thali,Maharashtrian Thali,2,280,560,Cash,,Cancelled,
+FD10881,2026-03-23,C1125,Aditi,Nashik,Spice Villa,South Indian,Idli Sambar,3,128,384,UPI,,Cancelled,
+FD10882,2026-09-09,C1004,Amit,Mumbai,Cafe Delight,Biryani,Mushroom Biryani,4,216,864,Card,,Cancelled,
+FD10883,2026-07-09,C1145,Sahil,Pune,Food Hub,Biryani,Mushroom Biryani,4,333,1332,Cash,64.0,Delivered,4.7
+FD10884,2026-12-24,C1050,Priya,Nashik,Tasty Treats,Biryani,Paneer Biryani,2,356,712,Card,56.0,Delivered,4.6
+FD10885,2026-03-17,C1160,Anjali,Pune,Quick Eats,Chinese,Manchurian,2,220,440,Cash,,Cancelled,
+FD10886,2026-11-21,C1001,Anjali,Nashik,Quick Eats,Chinese,Fried Rice,1,210,210,Card,50.0,Delivered,3.5
+FD10887,2026-04-10,C1135,Meera,Nashik,Tasty Treats,Burger,Cheese Burger,3,200,600,Cash,38.0,Delivered,4.5
+FD10888,2026-02-10,C1095,Nisha,Mumbai,Quick Eats,South Indian,Masala Dosa,3,155,465,Card,,Cancelled,
+FD10889,2026-05-26,C1042,Manish,Mumbai,Cafe Delight,South Indian,Idli Sambar,4,196,784,UPI,,Cancelled,
+FD10890,2026-06-15,C1102,Rohan,Nashik,Food Hub,Pizza,Margherita Pizza,3,502,1506,Card,60.0,Delivered,3.9
+FD10891,2026-03-25,C1241,Karan,Pune,Cafe Delight,Biryani,Paneer Biryani,1,365,365,Cash,29.0,Delivered,3.2
+FD10892,2026-11-25,C1203,Sakshi,Mumbai,Spice Villa,Biryani,Veg Biryani,4,306,1224,UPI,,Cancelled,
+FD10893,2026-04-23,C1195,Karan,Mumbai,Urban Bites,South Indian,Idli Sambar,1,94,94,Card,50.0,Delivered,3.1
+FD10894,2026-08-01,C1141,Rahul,Pune,Tasty Treats,Biryani,Paneer Biryani,4,281,1124,Card,62.0,Delivered,4.4
+FD10895,2026-03-26,C1102,Neha,Mumbai,Food Hub,Pizza,Farmhouse Pizza,2,518,1036,Card,52.0,Delivered,4.8
+FD10896,2026-05-14,C1101,Sneha,Nashik,Quick Eats,Desserts,Ice Cream,3,131,393,UPI,41.0,Delivered,3.4
+FD10897,2026-10-31,C1210,Amit,Nashik,Quick Eats,South Indian,Uttapam,2,179,358,UPI,64.0,Delivered,4.3
+FD10898,2026-07-18,C1185,Anjali,Nagpur,Royal Kitchen,Desserts,Brownie,3,135,405,Card,33.0,Delivered,4.0
+FD10899,2026-11-14,C1013,Aarav,Nashik,Food Hub,Thali,Veg Thali,4,199,796,Cash,20.0,Delivered,4.7
+FD10900,2026-12-01,C1006,Amit,Pune,Spice Villa,South Indian,Uttapam,2,135,270,Cash,24.0,Delivered,3.6
+FD10901,2026-08-22,C1223,Manish,Thane,The Food Corner,Burger,Cheese Burger,4,150,600,Cash,25.0,Delivered,4.4
+FD10902,2026-08-27,C1106,Rohan,Pune,Food Hub,Pizza,Veggie Pizza,1,298,298,Card,51.0,Delivered,3.9
+FD10903,2026-01-01,C1167,Aditi,Thane,Royal Kitchen,Pizza,Paneer Pizza,3,465,1395,Card,64.0,Delivered,3.9
+FD10904,2026-10-06,C1042,Vikas,Nashik,Urban Bites,Desserts,Rasmalai,2,174,348,Cash,,Cancelled,
+FD10905,2026-09-11,C1173,Riya,Nagpur,Cafe Delight,Desserts,Ice Cream,4,168,672,Cash,63.0,Delivered,4.5
+FD10906,2026-11-17,C1038,Isha,Nashik,Urban Bites,Pizza,Paneer Pizza,2,390,780,Card,41.0,Delivered,4.0
+FD10907,2026-10-09,C1171,Rohan,Mumbai,Cafe Delight,Burger,Paneer Burger,4,227,908,Cash,56.0,Delivered,3.0
+FD10908,2026-08-21,C1040,Neha,Pune,Spice Villa,Pizza,Paneer Pizza,3,500,1500,Cash,34.0,Delivered,4.3
+FD10909,2026-03-03,C1054,Rohan,Pune,Spice Villa,Burger,Veg Burger,3,223,669,Cash,21.0,Delivered,3.1
+FD10910,2026-07-11,C1054,Amit,Nagpur,Quick Eats,South Indian,Masala Dosa,4,82,328,Card,,Cancelled,
+FD10911,2026-10-03,C1198,Sneha,Nagpur,Cafe Delight,Chinese,Veg Noodles,4,147,588,Card,,Cancelled,
+FD10912,2026-11-20,C1237,Sneha,Nagpur,Royal Kitchen,South Indian,Masala Dosa,4,102,408,Card,25.0,Delivered,3.5
+FD10913,2026-12-12,C1200,Aarav,Thane,Quick Eats,Biryani,Veg Biryani,4,259,1036,UPI,63.0,Delivered,3.3
+FD10914,2026-03-31,C1231,Nisha,Nashik,Urban Bites,Chinese,Manchurian,4,277,1108,UPI,64.0,Delivered,4.0
+FD10915,2026-05-08,C1002,Sakshi,Mumbai,Royal Kitchen,Biryani,Mushroom Biryani,3,355,1065,UPI,,Cancelled,
+FD10916,2026-11-06,C1145,Aarav,Nagpur,Quick Eats,Biryani,Veg Biryani,2,329,658,Cash,30.0,Delivered,3.3
+FD10917,2026-08-31,C1009,Pooja,Nagpur,Royal Kitchen,Thali,Maharashtrian Thali,4,207,828,UPI,,Cancelled,
+FD10918,2026-04-06,C1171,Neha,Nagpur,Cafe Delight,Pizza,Margherita Pizza,3,403,1209,Card,30.0,Delivered,3.2
+FD10919,2026-12-26,C1101,Aarav,Nashik,Food Hub,Biryani,Paneer Biryani,1,285,285,Card,29.0,Delivered,3.6
+FD10920,2026-04-20,C1049,Sahil,Nagpur,Quick Eats,Thali,Veg Thali,1,215,215,UPI,35.0,Delivered,4.7
+FD10921,2026-02-04,C1123,Meera,Pune,Urban Bites,Pizza,Farmhouse Pizza,4,503,2012,UPI,52.0,Delivered,3.3
+FD10922,2026-01-15,C1050,Vikas,Nagpur,Quick Eats,Desserts,Rasmalai,3,90,270,Card,,Cancelled,
+FD10923,2026-08-10,C1154,Aarav,Nagpur,Spice Villa,Thali,Veg Thali,2,241,482,Card,51.0,Delivered,4.5
+FD10924,2026-08-29,C1131,Sahil,Nagpur,Urban Bites,Pizza,Farmhouse Pizza,1,409,409,Cash,39.0,Delivered,4.7
+FD10925,2026-06-10,C1238,Anjali,Mumbai,Tasty Treats,Biryani,Veg Biryani,4,312,1248,Cash,58.0,Delivered,4.0
+FD10926,2026-03-13,C1206,Amit,Mumbai,Cafe Delight,Biryani,Veg Biryani,3,285,855,Card,59.0,Delivered,4.8
+FD10927,2026-11-21,C1213,Anjali,Mumbai,Quick Eats,Chinese,Fried Rice,2,170,340,Cash,33.0,Delivered,4.2
+FD10928,2026-07-12,C1209,Riya,Nagpur,Food Hub,Burger,Aloo Tikki Burger,4,265,1060,UPI,36.0,Delivered,3.2
+FD10929,2026-11-18,C1126,Isha,Pune,Quick Eats,Burger,Cheese Burger,4,260,1040,Cash,23.0,Delivered,5.0
+FD10930,2026-05-18,C1033,Sneha,Nagpur,Tasty Treats,South Indian,Vada Sambar,1,172,172,UPI,26.0,Delivered,4.1
+FD10931,2026-10-20,C1193,Pooja,Thane,Cafe Delight,Desserts,Gulab Jamun,1,190,190,UPI,34.0,Delivered,4.2
+FD10932,2026-11-11,C1250,Pooja,Nagpur,Spice Villa,Burger,Veg Burger,3,163,489,UPI,30.0,Delivered,3.2
+FD10933,2026-06-07,C1112,Manish,Thane,Royal Kitchen,Burger,Aloo Tikki Burger,2,237,474,Cash,20.0,Delivered,3.5
+FD10934,2026-01-12,C1139,Pooja,Mumbai,Quick Eats,Burger,Paneer Burger,1,224,224,Cash,,Cancelled,
+FD10935,2026-02-09,C1154,Sakshi,Mumbai,Royal Kitchen,Thali,Maharashtrian Thali,3,293,879,UPI,43.0,Delivered,3.3
+FD10936,2026-01-13,C1176,Manish,Mumbai,Spice Villa,Burger,Cheese Burger,3,190,570,Cash,,Cancelled,
+FD10937,2026-08-06,C1023,Akash,Nashik,Cafe Delight,Desserts,Gulab Jamun,4,205,820,UPI,,Cancelled,
+FD10938,2026-07-06,C1013,Karan,Pune,Urban Bites,Biryani,Paneer Biryani,3,223,669,UPI,22.0,Delivered,5.0
+FD10939,2026-05-23,C1223,Rohan,Mumbai,Royal Kitchen,Chinese,Veg Noodles,3,178,534,Cash,,Cancelled,
+FD10940,2026-03-27,C1061,Aarav,Mumbai,Spice Villa,Burger,Veg Burger,2,278,556,UPI,,Cancelled,
+FD10941,2026-05-06,C1202,Aarav,Nashik,Urban Bites,Thali,Veg Thali,3,225,675,Cash,54.0,Delivered,4.9
+FD10942,2026-10-21,C1201,Pooja,Nagpur,Tasty Treats,Chinese,Veg Noodles,1,260,260,Cash,58.0,Delivered,4.7
+FD10943,2026-09-08,C1174,Sakshi,Thane,Royal Kitchen,Burger,Veg Burger,2,283,566,Card,38.0,Delivered,3.9
+FD10944,2026-07-08,C1216,Amit,Pune,Royal Kitchen,South Indian,Vada Sambar,4,122,488,Cash,33.0,Delivered,3.1
+FD10945,2026-03-13,C1167,Amit,Nagpur,Tasty Treats,South Indian,Vada Sambar,3,130,390,UPI,48.0,Delivered,4.7
+FD10946,2026-03-08,C1107,Aditi,Mumbai,Urban Bites,Pizza,Farmhouse Pizza,4,349,1396,Card,,Cancelled,
+FD10947,2026-10-10,C1123,Aditi,Nagpur,Spice Villa,Pizza,Paneer Pizza,3,247,741,Cash,42.0,Delivered,4.6
+FD10948,2026-09-24,C1096,Aarav,Nagpur,Royal Kitchen,Biryani,Veg Biryani,3,182,546,Cash,52.0,Delivered,3.4
+FD10949,2026-08-10,C1196,Meera,Pune,Spice Villa,Thali,Maharashtrian Thali,4,312,1248,UPI,48.0,Delivered,4.5
+FD10950,2026-05-22,C1101,Karan,Pune,Food Hub,Thali,Punjabi Thali,3,203,609,Cash,,Cancelled,
+FD10951,2026-02-03,C1042,Aditi,Nashik,Quick Eats,Pizza,Farmhouse Pizza,2,434,868,UPI,33.0,Delivered,3.0
+FD10952,2026-06-19,C1162,Anjali,Thane,Urban Bites,Burger,Aloo Tikki Burger,2,149,298,Card,56.0,Delivered,4.1
+FD10953,2026-07-27,C1014,Manish,Nashik,The Food Corner,Desserts,Ice Cream,2,164,328,UPI,51.0,Delivered,4.9
+FD10954,2026-08-03,C1146,Anjali,Nashik,Spice Villa,Thali,Veg Thali,2,309,618,UPI,46.0,Delivered,4.5
+FD10955,2026-01-16,C1086,Vikas,Pune,The Food Corner,Burger,Aloo Tikki Burger,1,134,134,UPI,,Cancelled,
+FD10956,2026-06-17,C1152,Sakshi,Pune,Spice Villa,South Indian,Uttapam,4,190,760,UPI,41.0,Delivered,3.3
+FD10957,2026-03-10,C1075,Vikas,Nashik,Spice Villa,Pizza,Margherita Pizza,2,496,992,UPI,50.0,Delivered,3.4
+FD10958,2026-09-09,C1028,Pooja,Thane,The Food Corner,Burger,Cheese Burger,3,129,387,Card,45.0,Delivered,4.6
+FD10959,2026-12-19,C1073,Aditi,Nagpur,Cafe Delight,Thali,Maharashtrian Thali,1,220,220,Card,51.0,Delivered,4.2
+FD10960,2026-04-18,C1062,Nisha,Mumbai,Urban Bites,Burger,Aloo Tikki Burger,4,250,1000,UPI,39.0,Delivered,4.3
+FD10961,2026-05-03,C1184,Sahil,Nagpur,Royal Kitchen,Pizza,Margherita Pizza,1,295,295,UPI,64.0,Delivered,3.6
+FD10962,2026-05-10,C1100,Rohan,Nagpur,Quick Eats,Desserts,Ice Cream,2,180,360,Card,24.0,Delivered,3.1
+FD10963,2026-03-26,C1245,Pooja,Nagpur,Spice Villa,South Indian,Vada Sambar,4,188,752,Cash,20.0,Delivered,4.7
+FD10964,2026-01-20,C1198,Aarav,Nashik,Cafe Delight,Biryani,Veg Biryani,1,311,311,Card,,Cancelled,
+FD10965,2026-09-16,C1071,Meera,Nagpur,Tasty Treats,Biryani,Paneer Biryani,1,377,377,Cash,63.0,Delivered,4.3
+FD10966,2026-10-29,C1161,Rahul,Nagpur,Royal Kitchen,Thali,Maharashtrian Thali,1,191,191,Cash,41.0,Delivered,3.0
+FD10967,2026-09-29,C1059,Aditi,Mumbai,Quick Eats,Chinese,Manchurian,3,216,648,UPI,45.0,Delivered,3.5
+FD10968,2026-11-24,C1202,Amit,Thane,Food Hub,South Indian,Masala Dosa,4,150,600,Cash,52.0,Delivered,4.7
+FD10969,2026-02-10,C1085,Karan,Nagpur,Food Hub,Chinese,Manchurian,3,185,555,UPI,20.0,Delivered,4.4
+FD10970,2026-05-28,C1080,Riya,Thane,Spice Villa,Burger,Cheese Burger,2,291,582,UPI,43.0,Delivered,3.2
+FD10971,2026-10-01,C1120,Meera,Pune,Quick Eats,Burger,Veg Burger,1,136,136,Card,27.0,Delivered,4.0
+FD10972,2026-11-14,C1206,Rahul,Pune,Urban Bites,Chinese,Fried Rice,1,239,239,UPI,21.0,Delivered,4.8
+FD10973,2026-07-26,C1055,Rohan,Mumbai,Quick Eats,Biryani,Veg Biryani,2,269,538,Card,52.0,Delivered,4.6
+FD10974,2026-01-19,C1116,Neha,Pune,Cafe Delight,Desserts,Gulab Jamun,2,162,324,UPI,32.0,Delivered,4.8
+FD10975,2026-09-11,C1142,Riya,Nashik,Spice Villa,Desserts,Ice Cream,3,114,342,Card,57.0,Delivered,3.3
+FD10976,2026-03-12,C1179,Pooja,Nagpur,Urban Bites,Thali,Veg Thali,3,207,621,Cash,39.0,Delivered,4.3
+FD10977,2026-06-17,C1048,Rahul,Mumbai,Spice Villa,Biryani,Paneer Biryani,1,199,199,Cash,21.0,Delivered,5.0
+FD10978,2026-06-09,C1216,Riya,Thane,Spice Villa,Pizza,Margherita Pizza,3,390,1170,Card,34.0,Delivered,3.1
+FD10979,2026-03-12,C1018,Sneha,Thane,Food Hub,Chinese,Fried Rice,3,219,657,UPI,37.0,Delivered,4.5
+FD10980,2026-04-05,C1167,Manish,Pune,Food Hub,South Indian,Masala Dosa,4,107,428,Cash,25.0,Delivered,3.7
+FD10981,2026-01-31,C1111,Neha,Thane,Royal Kitchen,Burger,Paneer Burger,2,181,362,UPI,51.0,Delivered,4.1
+FD10982,2026-03-05,C1181,Akash,Nashik,Quick Eats,Thali,Maharashtrian Thali,3,248,744,UPI,59.0,Delivered,4.7
+FD10983,2026-05-08,C1191,Aditi,Pune,Royal Kitchen,Pizza,Veggie Pizza,2,349,698,UPI,65.0,Delivered,3.1
+FD10984,2026-03-15,C1038,Sneha,Nashik,Cafe Delight,Burger,Cheese Burger,1,120,120,Cash,41.0,Delivered,3.4
+FD10985,2026-05-21,C1112,Aditi,Nashik,Food Hub,South Indian,Vada Sambar,4,132,528,Cash,51.0,Delivered,4.0
+FD10986,2026-04-01,C1110,Aarav,Nagpur,Spice Villa,South Indian,Idli Sambar,1,154,154,Card,29.0,Delivered,3.6
+FD10987,2026-05-19,C1042,Sahil,Mumbai,Quick Eats,South Indian,Vada Sambar,3,131,393,UPI,,Cancelled,
+FD10988,2026-12-20,C1026,Pooja,Thane,The Food Corner,Pizza,Farmhouse Pizza,4,416,1664,Card,43.0,Delivered,4.0
+FD10989,2026-09-28,C1001,Priya,Pune,Cafe Delight,South Indian,Masala Dosa,1,152,152,Card,60.0,Delivered,4.0
+FD10990,2026-05-20,C1151,Neha,Nagpur,Cafe Delight,Thali,Maharashtrian Thali,4,207,828,UPI,47.0,Delivered,3.5
+FD10991,2026-10-15,C1005,Rahul,Pune,Urban Bites,South Indian,Uttapam,2,166,332,UPI,51.0,Delivered,3.5
+FD10992,2026-04-22,C1095,Sneha,Pune,The Food Corner,South Indian,Masala Dosa,2,98,196,UPI,34.0,Delivered,4.5
+FD10993,2026-05-09,C1203,Isha,Thane,Tasty Treats,Chinese,Paneer Chilli,1,193,193,UPI,59.0,Delivered,3.2
+FD10994,2026-10-22,C1072,Aarav,Nagpur,Cafe Delight,South Indian,Vada Sambar,2,135,270,Cash,52.0,Delivered,4.2
+FD10995,2026-01-24,C1188,Rohan,Mumbai,Tasty Treats,Thali,Punjabi Thali,2,229,458,UPI,30.0,Delivered,3.5
+FD10996,2026-06-03,C1214,Akash,Mumbai,Spice Villa,Burger,Cheese Burger,4,289,1156,UPI,33.0,Delivered,3.7
+FD10997,2026-03-20,C1107,Sneha,Nagpur,Tasty Treats,South Indian,Uttapam,1,216,216,Card,30.0,Delivered,3.4
+FD10998,2026-10-18,C1056,Nisha,Nagpur,Urban Bites,Thali,Veg Thali,3,295,885,Card,58.0,Delivered,4.1
+FD10999,2026-08-27,C1238,Rahul,Thane,Spice Villa,Thali,Punjabi Thali,3,283,849,Card,44.0,Delivered,4.5
+FD11000,2026-03-06,C1062,Aditi,Thane,Spice Villa,Burger,Veg Burger,2,148,296,UPI,54.0,Delivered,4.8
